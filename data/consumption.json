@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "ip_0e45d3a2-64a7-4876-b0dc-95dea6cc577c",
+    "createdDate": "2019-01-25T03:11:02.348Z",
+    "lastUpdatedDate": "2019-04-08T22:51:13.039Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-25T03:11:02.348Z",
+      "lastUpdatedDate": "2019-03-14T22:58:35.480Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:11:02.348Z"
+        },
+        "accessGranted": {
+          "date": "2019-03-14T22:43:32.080Z",
+          "userPrincipalName": "Rohan.Abraham@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-04-08T22:51:13.039Z",
+          "executionId": "aac09d71-8e61-4bf9-ab24-032a6801d8ef",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMrHvWuszZoA5tB/I9AgEQgIIDarG+Op4wps1U8ZCo2oJ6ZKy6OZU3K9hW6PBeLQ/axrVDxSXStwDyMkRo87P86arZD7lY40MGaWzfIchtetzJ4v2kqqkubyX7sopnjDkcaWdgOsrHj92nqSyzLZXhEX+j+VXkHu8q6QaSDDBrcwiBdMxh0E7lJDJnSrr7C10u2ILeq0M4Cfh0U/0ppIdJggHShzStCXOdseDAUSAbe5pAWb/GXAALhH0u0ei9cX7taWCOXd7x/KXgyih+paxg+as5qfvLgJMUJLQvepcJ8O3nkXjTsQyUnaZ8QvzwmNK9HroYnZGtRGlKv57//k0aEUJXMDXeBiPLsgizWe7yFwufvtij/voJ/xtX5ImPoasUHJGZE7x4/JoJHtQPUcv4ajdEhrFwptUPiu28HuwTCrclFf9C/b9hBycjhDXWa3XK/QLqIrC6E1nmJbdtcr1UcRfQGD2VChl652H0/vALO6sc7dqP/UqnKQlfBMHEF7vjAd1X/Wum9GyCUspapNJ0NM2vNOQzFwYhOIXyFyrxv78e4ih1eBA453tDktCSXDrATAC4r4AFe943AgdgnOMVs0ocRnHzUmIhHJedZfMcFlXyicl/CLv3yq5qBkVzrctWKmOBB6TzjwcFmACXXpR8hsEO+ycQDEfF2EAUqggF4aDnJZoBUjXhfWkG5rEn3YqRze29f368GfM/XJ4SqerUs1XQL+4u2F+U4FvEMBYhzUJ5/lf1QZJGo/7DhNbi1RS0iX3o1BpzRrNgxbXACZxL2Zqy/OMW685s1E5oHP0bY4/PUoPBNd/SUFy52hV66nPRrqkOtZ2Sgt8UygsnJaxrKYyXg5lipLCjLXEJQr0UjZZKpsNGidh9OvHPVARuUtk2dg4haW5KarQBKh7/TcObv3AsLB68epmNsm0Su/WDxxbFMbuMCik/M9pJjTbCXAxhPGkl/w/lETFC3oV2Zm4zhc+6wKD/Qekv81Kg+dN8+4X8+DW2Nizkh8eOkcUCyvOmzKTCXRubfdJwsASOB8rKtQozAc93A55rGd7rv7/Kp67IUAv5P9CPEei46/ampAs752b5mIQPbdPP2YcD1lL9NCgssV9arEKtdtNh+TavnixvSf22bXM6RWKqboWrFiNvLBYBIi0FVnT3oKmcJfZpQZKc0INwXVP5dkg8s/k=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-14T22:58:35.480Z"
+    },
+    "_rid": "A7pMAL4gUrCQAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCQAAAAAAAAAA==/",
+    "_etag": "\"2900b6b3-0000-0000-0000-5cabd0610000\"",
+    "_attachments": "attachments/",
+    "_ts": 1554763873
+  },
+  {
+    "id": "ip_c42f39ee-b6cb-4fd5-8036-e05ca327ec6f",
+    "createdDate": "2019-01-25T03:11:51.063Z",
+    "lastUpdatedDate": "2019-01-25T03:11:51.063Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T03:11:51.063Z",
+      "lastUpdatedDate": "2019-01-25T03:11:51.063Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:11:51.063Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCRAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCRAAAAAAAAAA==/",
+    "_etag": "\"13001077-0000-0000-0000-5c4a7e770000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548385911
+  },
+  {
+    "id": "ip_4a1366ad-7af5-4c1a-bbaa-1025cfa53379",
+    "createdDate": "2019-01-25T03:12:45.024Z",
+    "lastUpdatedDate": "2019-01-25T03:12:45.024Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T03:12:45.024Z",
+      "lastUpdatedDate": "2019-01-25T03:12:45.024Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:12:45.024Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCSAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCSAAAAAAAAAA==/",
+    "_etag": "\"13001177-0000-0000-0000-5c4a7ead0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548385965
+  },
+  {
+    "id": "ip_1166425b-e699-43fe-9e3c-3bdfffc83ed9",
+    "createdDate": "2019-01-25T03:21:38.838Z",
+    "lastUpdatedDate": "2019-01-25T03:21:38.838Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T03:21:38.838Z",
+      "lastUpdatedDate": "2019-01-25T03:21:38.838Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:21:38.838Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCUAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCUAAAAAAAAAA==/",
+    "_etag": "\"1300a878-0000-0000-0000-5c4a80c20000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548386498
+  },
+  {
+    "id": "ip_2dd44c57-0de7-4240-8198-a75f7ddc1e4b",
+    "createdDate": "2019-01-25T03:25:33.707Z",
+    "lastUpdatedDate": "2019-01-25T03:25:33.707Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T03:25:33.707Z",
+      "lastUpdatedDate": "2019-01-25T03:25:33.707Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:25:33.707Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCVAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCVAAAAAAAAAA==/",
+    "_etag": "\"1300d478-0000-0000-0000-5c4a81ad0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548386733
+  },
+  {
+    "id": "ip_50ebe79b-fdcd-4255-bf54-7dc54b016ce5",
+    "createdDate": "2019-01-25T03:26:04.288Z",
+    "lastUpdatedDate": "2019-02-11T20:01:16.963Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-25T03:26:04.288Z",
+      "lastUpdatedDate": "2019-02-11T20:01:06.792Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T03:26:04.288Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-11T20:01:06.792Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-02-11T20:01:16.963Z",
+          "executionId": "0ecba45b-c230-4cee-999d-6a30958d1794",
+          "step": "OFFICE365_GENERATE_RECOMMENDATIONS_VIEW",
+          "errorCode": null,
+          "errorMessage": "Invalid data"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMCmrm597vL13pG+rdAgEQgIIDarHgfM/c35tCvHwsDV/0PQi0s7xtxMIkHtnbVuMrnFh9CPKo7HtoRGa0oJN3Qo2gsFALQh0jHQ3g5CQBiWACbtkC9eJg8ZDXEIqixl8NZZmZ+KCxKdD1tSegAU3wctHNDPolSPjpgrrVFDcgKG7WQOIakzQXRkxYOUFqlmZIfuzuqzgrxppOkbsJ1wqor7j4Fgvaibo1tUdoY8YStU2ZDhWUsBpUdn/277gG51bcTmN9TXGviICjIhYDKuW7JZkgKZwLPrpqKjEtcHnq4sOAiu+fy4R//cJhBQY5nT/R8dABsxOU3F7bFgkC9KidwaFxrNvNVI4g/7r0hKx5r8uCDJV5/X9omGVPBmXsRogFaRRaTplTfqi/F33FJONK2H1hsIsGXCZmW3WmPXGptwlXE+XLvY3HQlJZpcO6TPVzHpsWfFP5od+PDbpAO96hB58E1bC2URkUwouZy3W1IcajKAaSHXy7BBH89FnFNoSEgyZnS6/KX4Ffrmy/5EIKZ7o1YKJUBvPk/qYwzOl6/10HUDqEzg+ugxF81Jk6m07gScYCr/jBM1rwEI9Nlb3QdhsywxCevMGNVhkuCYUovOvxCRHzbDrDd7e08rL1rpjLx8G0KrylBuqssDxvQsSi+lWmdVpP0MpPtYdcuUR7U3G3Jfy15rzDrvjl8gLsBORp4OttMGHNYAURfEwaESYQXtapz9MzaH/XEtGy1ciD7goGZl/vNEh15ZyzC9KgA+T7K/WjlYHkNBNN6unnewQ5VvhYt8F52bG8u/zm4CYo7qjv9zYn6fVsQ2f0SRLGwTZfX4+VRmSeIQ8rhvmRU+uVIR6NADu3KE8CaXQBz8wRFmRR0E0ABaEhElSU+2fuC/9xDsU7DXlStIo4wnP3E50FiooZ7IH833/5J796JRgBWzIL/nSwATdSZ9fPS6i1stx7Yddrs0h6nhsP3gnjAC+8okmlKzDXgma/lTdEKY2LDt8BdjVsaRPYxKXeirrzQ+qX3uvQaHdQEOhyuXk/WsNHoEIfF5yb6//qa+PO1x6nwiDN0vOUSLYOIKtR/M3gHD92+2X14AqZBlxy+9FQbvBOiycEAQ5n1CV/c+GxUNP7/x+s6h4slL1WM8bK/+lHydVykOncWPraduUuniL67vs2WFDPGt59ZmUxOVkl0pY=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email"
+    },
+    "_rid": "A7pMAL4gUrCWAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCWAAAAAAAAAA==/",
+    "_etag": "\"05000fd1-0000-0000-0000-5c61d48c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549915276
+  },
+  {
+    "id": "ip_1d273163-4a02-40bc-ad10-ef9a4a87e162",
+    "createdDate": "2019-01-25T21:01:42.740Z",
+    "lastUpdatedDate": "2019-01-25T21:01:42.740Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:01:42.740Z",
+      "lastUpdatedDate": "2019-01-25T21:01:42.740Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:01:42.740Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCYAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCYAAAAAAAAAA==/",
+    "_etag": "\"14005403-0000-0000-0000-5c4b79360000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450102
+  },
+  {
+    "id": "ip_5b926171-59e7-4532-8674-cd515a246008",
+    "createdDate": "2019-01-25T21:02:48.410Z",
+    "lastUpdatedDate": "2019-01-25T21:02:48.410Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:02:48.410Z",
+      "lastUpdatedDate": "2019-01-25T21:02:48.410Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:02:48.410Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCZAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCZAAAAAAAAAA==/",
+    "_etag": "\"14005503-0000-0000-0000-5c4b79780000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450168
+  },
+  {
+    "id": "ip_c446a7a6-cabd-40d3-9d0b-5bdfca3f7fb9",
+    "createdDate": "2019-01-25T21:02:57.735Z",
+    "lastUpdatedDate": "2019-01-25T21:02:57.735Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:02:57.735Z",
+      "lastUpdatedDate": "2019-01-25T21:02:57.735Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:02:57.735Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCaAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCaAAAAAAAAAA==/",
+    "_etag": "\"14005603-0000-0000-0000-5c4b79810000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450177
+  },
+  {
+    "id": "ip_b3053123-cfa2-494c-9806-b6ed89f54ac7",
+    "createdDate": "2019-01-25T21:03:07.461Z",
+    "lastUpdatedDate": "2019-03-27T03:08:03.000Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-25T21:03:07.461Z",
+      "lastUpdatedDate": "2019-03-12T02:53:53.022Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:03:07.461Z"
+        },
+        "accessGranted": {
+          "date": "2019-03-12T02:53:40.450Z",
+          "userPrincipalName": "Alexander.Amante@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-03-27T03:08:03.000Z",
+          "executionId": "fdcd884f-5c31-4a0a-8db7-1262ff6b86ba",
+          "step": "OFFICE365_PROCESS_USER",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkB/P89+f+zSfm191AgEQgIIDatal0SL3/vkSkdOKwNifsR8hECBKaWjXkZzKO3HBrDp+8nlq2zZviu6fJbYLtJUgVdyAARjoXe9HovqEGoON+fOpfDmdFA8JIEN6U+MvmYXzN2UYYmKfUzBsgS78P02DGRQvrOa0c4tJpTrvSaDPt1FEp6aZ8VTl4TfYsYIm+0rf8LnRtWFG2ooDsblnsYet+eLc8Yt4ZRj1yjN1yGdfBOQmBcvl+HM7X5deU7iTkMuo3T2Wr6m0OxBFdMwoV2x7Dp7zRkIIwwNPeR7o6wAi7dAqlVNdPxFtTFA7XPol0+JP7xN+tveBpXJBwrXE5Kxo77D6wJbg/DgkAOR1xzhswANeBCzfrWDeAV6TYXSk729uYemJO8Jb00NvpyJ0vZiIGgw9gcSnY2iquuliRfNVUHVPaNW/RvcBxtmRHo7lcy9alXndUFRyT+3ULI+frYw1M6sKTZPAZIxPpARuGJcKcI8P6AjLNMMQE5LK0ypWPE41OsSnvbxYXk4DfGhoi1lV6kp4/90IHkzRzUwDdXu3/VlL1VemeBxKSqDfmylCda3ei4uDkcSDwC8EUSZMk/3mj9F9vsVaDYIOiQ+uFW2thhFbwNz2qiIGdUnH/Fv5KJJwlC95hT1wgcsR71uBHEjLwvMyXYUM68zTiiPgJ8x9imKJKw49QbvWXHoMtsQ/TijoSatxlgr8rqRuq/X1jorjt/zuH8beQ31hCkR3nKirV9kznXQpayqpM8NaVuWGiZft9ASBSdxO6fnkDB30w1FWd/hEL4NH7TAHV6WaoxnqcIjfA1aywvMsFPMOws+6R9mlP6C95Gg7nGqA1izo0dTtZkoJiIB8yOs6mAUa2QtUBNwLXJwCIUsaasp2/nT1IxnRrmepAypOo3VoEnBwCcpQiy8SwdB2ZHmcImTj6B+o7zjuLnFbxMy29HtQprpPHVhO2jKRoMo529xUH7QUNvWFYZUddY9gFc14dFafm4v+pwIpTPKvduPkzS+sxPeiRCiYK4A1mmFHod1XI3tdk77L3msf7NQ63DnZuS1V6Vv7zey4oEPvH0P5yhF3ASzaQmBMIoH8BEzlri/zotw6WkVg3ujxno/ZScK7/nfd7tYNjLqZkalN5Ej96ywEaisnQnOQL+89gOf8OqJXcmpcdeed0RWW0coyMEaX75g=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-12T02:53:53.022Z"
+    },
+    "_rid": "A7pMAL4gUrCbAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCbAAAAAAAAAA==/",
+    "_etag": "\"6e003e68-0000-0000-0000-5c9ae9120000\"",
+    "_attachments": "attachments/",
+    "_ts": 1553656082
+  },
+  {
+    "id": "ip_114f7a66-6c56-45a0-b002-5c627ef21ef9",
+    "createdDate": "2019-01-25T21:03:08.375Z",
+    "lastUpdatedDate": "2019-01-25T21:03:08.375Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:03:08.375Z",
+      "lastUpdatedDate": "2019-01-25T21:03:08.375Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:03:08.375Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCcAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCcAAAAAAAAAA==/",
+    "_etag": "\"14005803-0000-0000-0000-5c4b798c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450188
+  },
+  {
+    "id": "ip_ffffffff-fe01-4f3a-913e-6d7c0cfe30b7",
+    "createdDate": "2019-01-25T21:03:50.007Z",
+    "lastUpdatedDate": "2019-01-25T21:03:50.007Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:03:50.007Z",
+      "lastUpdatedDate": "2019-01-25T21:03:50.007Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:03:50.007Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCdAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCdAAAAAAAAAA==/",
+    "_etag": "\"14005903-0000-0000-0000-5c4b79b60000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450230
+  },
+  {
+    "id": "ip_1eb8944f-fb2c-4fec-8856-9dcd50bd16b4",
+    "createdDate": "2019-01-25T21:04:20.556Z",
+    "lastUpdatedDate": "2019-01-25T21:04:20.556Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:04:20.556Z",
+      "lastUpdatedDate": "2019-01-25T21:04:20.556Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:04:20.556Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCeAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCeAAAAAAAAAA==/",
+    "_etag": "\"14005a03-0000-0000-0000-5c4b79d40000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450260
+  },
+  {
+    "id": "ip_64b4167d-1f8b-4038-92db-7bf1db885e8f",
+    "createdDate": "2019-01-25T21:05:29.336Z",
+    "lastUpdatedDate": "2019-01-25T21:05:29.336Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-25T21:05:29.336Z",
+      "lastUpdatedDate": "2019-01-25T21:05:29.336Z",
+      "events": {
+        "new": {
+          "date": "2019-01-25T21:05:29.336Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCfAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCfAAAAAAAAAA==/",
+    "_etag": "\"1400e303-0000-0000-0000-5c4b7a190000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548450329
+  },
+  {
+    "id": "ip_96caa019-c954-4f54-97f2-7d05a5212b52",
+    "createdDate": "2019-01-28T20:20:56.708Z",
+    "lastUpdatedDate": "2019-03-21T03:15:21.015Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-28T20:20:56.708Z",
+      "lastUpdatedDate": "2019-03-21T03:15:21.015Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T20:20:56.708Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-18T01:33:20.720Z",
+          "userPrincipalName": "Rohan.Abraham@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-03-21T03:14:45.960Z",
+          "executionId": "62d81c3e-6d75-4f49-b560-d262ea5ee0df",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxqNvIvC0wWjiToqvAgEQgIIDam1fxl/XGZEM2dlxBf1JgjAjr3vAk6yVEgD0sUhTCxMK/o8h+xK5+7j60eK0yAaiT+FqTjlRQQT/4a2CDLusNAIOmDN6I1YxP2x95J0x2o3Ozkvs4Nt2M8BGoCP260Dp9ysTlRWOv1VV8OvJzxst930ycIAjxLN+PywdtYpSVL5Md/US5b4C0gMXoZ4aBCeFtMpS1nitI4jJOuhGDlZ6Z4bE365aCgGnQaZtGmXtb2LkwyVMChwiGYrx9xv7D6QRlh/tsShJ5gW1hdwu3le4zBFoXN4OOltVnk1kyDoef/nhYRaeL/O4cV+dfI32Syh1r3KVP9NUZ4J0OuZGzLdnR2S6o7WkVELvRAoZEfCeV24JB05hC7iro5WCcCba9FEBwEfK1qdIOsJtm3eoK+YAFphk3lY2C49sciBjDQIEt4dETGNKy0599ObpdQmH4OJAxqCE6vcCaG3rJbyBfGiLBKtZfLdV6gFHi03Ywe0j+cd7oqeL6QLJCUHSMhT/5Zv3f0DpnLi+QofCj7CtmnhMI8/1Tn08G5O59hLlA82B6np+MX/n5YUsyss9lDAmOpMaHrYFu7g42cP0HHr6qoERr8sBhJP0bqnS0Srjh5L+OhtB00vlP3GQH18N6fr9RaeKgIgvxzUPxUkDbQIeH1lK7tvmQfP1yhpbWM7clGmWQl2pGGcZjVJ90VR3qFPvJwd3OIlgYnEAx2dVX/UkumeXRzm5V2u5CZgFw+PuFgm2yUY+1Y15585c3cCbcvMgvAtJdAmZHwlz5poG6K56f6XoD3ejSVNBHXVTm1luRyCLU1QBl9iJcIjrRR0NEUUvVU0BrGwsCOBpWA8GYgYskhAUiX2h1TC8Qcj48gMYl/MIOl54LneyLDttICdklEEs1t/EqEV6FftnO/rHxmC77k2ASNRMeEdaDi1BgCiug6ox41nlVjKi2qNtRlUWaJKDW52fxgK+l79FHrU4jS+R8zNF8EWTY70o9QR/LeM8Yp8VddcK9Dtq5vpnZdu1ZVxmAFgiN2fuMAscvFDeeT0MzqmrbxYAIdM7fEo7RKfwTM4dCHePLk9aQmVzbpQtUynA8wwGeKrcOemH0/AeIijssyiJkGKlXT8XuKmcr7xFHyGjUz+pgxKmtwGWy0WpLLGNPZ/3dWidsi9BG6N0x7k=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-21T03:15:21.015Z"
+    },
+    "_rid": "A7pMAL4gUrCgAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCgAAAAAAAAAA==/",
+    "_etag": "\"00007f48-0000-0000-0000-5c9301c90000\"",
+    "_attachments": "attachments/",
+    "_ts": 1553138121
+  },
+  {
+    "id": "ip_b7ba25dc-2eef-414c-8c66-da81f4a5fedb",
+    "createdDate": "2019-01-28T20:23:10.934Z",
+    "lastUpdatedDate": "2019-01-28T20:23:10.934Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-28T20:23:10.934Z",
+      "lastUpdatedDate": "2019-01-28T20:23:10.934Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T20:23:10.934Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrChAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrChAAAAAAAAAA==/",
+    "_etag": "\"1500ffa4-0000-0000-0000-5c4f64ae0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548706990
+  },
+  {
+    "id": "ip_19d6556a-5271-4cb9-931c-b8e2b860c034",
+    "createdDate": "2019-01-28T20:36:53.573Z",
+    "lastUpdatedDate": "2019-01-28T20:36:53.573Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-28T20:36:53.573Z",
+      "lastUpdatedDate": "2019-01-28T20:36:53.573Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T20:36:53.573Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCiAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCiAAAAAAAAAA==/",
+    "_etag": "\"1500d0a6-0000-0000-0000-5c4f67e50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548707813
+  },
+  {
+    "id": "ip_ed2a7393-83fa-407b-b35c-8b7b4aaa9dc4",
+    "createdDate": "2019-01-28T20:46:45.650Z",
+    "lastUpdatedDate": "2019-03-27T21:00:52.469Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-28T20:46:45.650Z",
+      "lastUpdatedDate": "2019-03-27T21:00:52.469Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T20:46:45.650Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-28T20:27:15.418Z",
+          "userPrincipalName": "Alexander.Amante@ipifny.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxAauARJ3zMeaQxXxAgEQgIIDatiW+hVastWGPKoXRfH36bktI9YejHnOfeN4ZatwscJTwwUgVkbOzkrm/b27PLDrdFdIyTQ/YMu/QucV6xh1rFCSeRKUnFh7lW260q8Nwrb6b+y4DJrM5j8Kl4o+c+eKxSExl9htVvqPpZF1dhZ+fow0P/rCh2bBuBhDlwFe8k/p8ShHrnZ86ZcHc4sUoMk3/I/t7KQIFZ6oHKr6gAUd6OTpB0W7cOQ5fD7WDvFXov0vTlszMCIjw1xTwIRL/77qAebwNzlbIVjdEYanIkBdqQVIyEKZ5LGhVLfIir/LCKL+meIrGP2U2XZ3470qcWs7NkLYHcWKgzIY1X2ou2mCk00NTdg+xkJwyCvacWiVzPxdKyGGmMM9HesFVk1srl9iWbq1nyCNQ57CWJYlB2xpYkjm4NaLwQvktF/6kufX/xP4y8cHUbXZJ8dP26zBrNp10d3EfISLXRcskXnYOJ+2VxDaaHMAZN6XYrKWMdsPt1kLu7rhMA2JhoegTirLHySqGdAAvQme0p2Ok8Qu0/CtjJhDeT5eV7pEK7eZolGioS9B1m8alAiSdcseURS0RIrgPSsI+uzocKh64PAQcqu3G1/sVnyM+qXLpzkNSjgYJS7sbntsUwKRG63yBivMDcoqFsiOXUAxfJGV0uWFYbkjnT9QxBkdlMuPQDA52O/qqk3BSB0PQOYA0oW/FD2PwlfSY/WeMBNwnSZdgoDmo4YmaNu8f8rpZ7sCHW62AK1zG/M4Cdamf3XLweDDGLgG6PzEpWtXvL5sZ5GvNCfnAnx9/fw3hPjzyTu6Wk3fvwtzevb6Yw847+l3vdqUyLo8smt3wuGboZDxvSI4PqXtOcIhGxCAmE03+gTVqryGcyhQ/F+CHjqQ8KlvigUKmvE+dnBIGf8xDDN+Tplk2JtWTcLyfhFAr1VxiPZaSvm4O9f7414Rw2L6T4a4EDM6BkjGx651aZvILNrC0TpC2CbRBOdsMu0VsgKHoJWIggMrjs5++O0LZ+4YzKOFwESypUdfmHAUxuD1X4wUdKMn28S3UEnXcaPw4YvFBd1qrk6kVTT9I3kqOCo90i/obOR6+fb4SOwHeuXEz8LelLX7TF4JCIWUBkBjXYtOS9UqkrM/WkOaKPWK0tscezVExp+ZHA1BMAKE2ebEDmaJb+/tG44=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-27T21:00:52.469Z"
+    },
+    "_rid": "A7pMAL4gUrCjAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCjAAAAAAAAAA==/",
+    "_etag": "\"79002f72-0000-0000-0000-5c9be4840000\"",
+    "_attachments": "attachments/",
+    "_ts": 1553720452
+  },
+  {
+    "id": "ip_dc8acde8-0eb5-404e-8413-7c5f564a9b15",
+    "createdDate": "2019-01-28T21:21:08.469Z",
+    "lastUpdatedDate": "2019-01-28T21:21:08.469Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-28T21:21:08.469Z",
+      "lastUpdatedDate": "2019-01-28T21:21:08.469Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T21:21:08.469Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCoAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCoAAAAAAAAAA==/",
+    "_etag": "\"15000fac-0000-0000-0000-5c4f72440000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548710468
+  },
+  {
+    "id": "ip_119a8d3a-3996-47a1-aaab-da55226b741f",
+    "createdDate": "2019-01-28T21:36:02.857Z",
+    "lastUpdatedDate": "2019-04-16T22:19:22.051Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-28T21:36:02.857Z",
+      "lastUpdatedDate": "2019-04-16T22:19:22.051Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T21:36:02.857Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-04T21:14:22.725Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-03-25T20:13:26.931Z",
+          "executionId": "005bc01b-c08c-4099-9927-91eb66361fd4",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMWwa1SjBNEBpS8eaBAgEQgIIDapBJxenMvvUFItGbqHnGqUOavPrQGvb7iiA16ArvBCcOfxt6DPY1W1lsp31LneRTSrUZliC0jUK3m0RK9gDQv6k5fObVKmiysVATXJ57L7xNXWXWShJHCHk0Zjjab99nTkWltVj6BYGwnKaQ4ErlCmSzaElpH2NRGU6LKqVuzVVi5K3OY/WeDKNJ8lDWsGciY1oTzKGDJIJAU/gexY9gJk/DOfqnt9D2R+M0xi3iSRCIL/B125zkXzQOHaXUDbKouUlpfPaQFb67tRL+en76k7uSebGuTppC8M+TojrfknhXbF4XM/lJuSQOu4RBsoDPH33AJEf/fOptZWVdGq8mQKTVtYZKwaWMxBfXaXQYddXqFe8nAX6uB7KdFSaXgjNl+crGW3Gr6QVe0cmtIeLaFYAEAISxawOi3ibmsHt7eG+ZdPQDaJZVAILaRc5+WMyGN73AIAq++1FLNuqHO+34W+2uIwGb4L3EmfxwtNjVxMp9dSyrjdkIlDZhvitCKKPZmEHPlM3X2Brt0QWOdYpG+Qd8yFJrTWeca5LTtIbRw3kGJXzhg5JTTMdW9pj50IMlcTTLyF9l0yP1X28CT1dVWJJ6zfiCgFS2zNQIJG3NeIeI9TcVz6zqzjGIqcbTGUiynMBYhstYqGxiN7Bk1E8+bIU96O3zhDeda2JIC64F6cWt8IknLnwKHkRkySM9XMXsh5gnHLntLV5bCOGXd/M0xbyyNzb1GG9HgbEBFUfPdgKFvsQfXSaRPjosyTxWEOSO+hg25WAfIfq5eEDdLtN7702hLWORHwndfG2f3H6d5wHlCdyQLt4n3qvMMr8FhqRpMoeLsZl8zuY3Ja607FvQU0/rwDRWNlLAp6Di3x66yZEAlwkAeE/IuXq8tyBNAQnu4HjwnZK0RJr+dmL5o5TOB1vDGs6I55I1Silv74waSF/X+huhcwe136X1wvWV0YJXFNJcy23DggT5cCJvriIlEVaP/8TiQ4WrL5ELeGXDmoczVckdWFxTMdtyNWXU8iQAj+7iOczCaVZStbTXKwXqQNhEbPEazewaivBcPC+ue5plmqY5vatqeFfm2SXmfqk9UIw568aAYFO2xAjywR2pjNcBOZd89euX1njyBQ0bHnuzE9QwpIr0fewxTrzPCVUjzD9rWcxrARXCgYs=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-04-16T22:19:22.051Z"
+    },
+    "_rid": "A7pMAL4gUrCqAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCqAAAAAAAAAA==/",
+    "_etag": "\"4b00c17f-0000-0000-0000-5cb654ea0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1555453162
+  },
+  {
+    "id": "ip_e9f3d057-5f40-4cc8-b320-3cf89e71416e",
+    "createdDate": "2019-01-28T22:13:06.030Z",
+    "lastUpdatedDate": "2019-01-28T22:13:06.030Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-28T22:13:06.030Z",
+      "lastUpdatedDate": "2019-01-28T22:13:06.030Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T22:13:06.030Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCrAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCrAAAAAAAAAA==/",
+    "_etag": "\"15006bb4-0000-0000-0000-5c4f7e720000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548713586
+  },
+  {
+    "id": "ip_d8742fa8-2733-4e86-b738-f0b9064b5f6b",
+    "createdDate": "2019-01-28T23:03:28.510Z",
+    "lastUpdatedDate": "2019-01-28T23:03:28.510Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-28T23:03:28.510Z",
+      "lastUpdatedDate": "2019-01-28T23:03:28.510Z",
+      "events": {
+        "new": {
+          "date": "2019-01-28T23:03:28.510Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCtAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCtAAAAAAAAAA==/",
+    "_etag": "\"1500c2bb-0000-0000-0000-5c4f8a400000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548716608
+  },
+  {
+    "id": "ip_6c1ea24e-e726-40b2-a86c-6c0a13ac536d",
+    "createdDate": "2019-01-29T18:42:53.762Z",
+    "lastUpdatedDate": "2019-01-29T18:42:53.762Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T18:42:53.762Z",
+      "lastUpdatedDate": "2019-01-29T18:42:53.762Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T18:42:53.762Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCuAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCuAAAAAAAAAA==/",
+    "_etag": "\"1600c74a-0000-0000-0000-5c509ead0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548787373
+  },
+  {
+    "id": "ip_fcecd068-18e6-4e4c-88a8-6359c1a9b917",
+    "createdDate": "2019-01-29T19:59:54.222Z",
+    "lastUpdatedDate": "2019-01-29T19:59:54.222Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T19:59:54.222Z",
+      "lastUpdatedDate": "2019-01-29T19:59:54.222Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T19:59:54.222Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCvAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCvAAAAAAAAAA==/",
+    "_etag": "\"1600eb56-0000-0000-0000-5c50b0ba0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548791994
+  },
+  {
+    "id": "ip_1e72c2d9-760a-47a3-af0e-7d9917eb90d2",
+    "createdDate": "2019-01-29T21:34:33.747Z",
+    "lastUpdatedDate": "2019-01-29T21:34:33.747Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T21:34:33.747Z",
+      "lastUpdatedDate": "2019-01-29T21:34:33.747Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T21:34:33.747Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCyAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCyAAAAAAAAAA==/",
+    "_etag": "\"16007394-0000-0000-0000-5c50c6e90000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548797673
+  },
+  {
+    "id": "ip_e67fb369-4f2a-4dac-b3b1-c699a6a0c1e1",
+    "createdDate": "2019-01-29T22:12:48.305Z",
+    "lastUpdatedDate": "2019-02-11T19:54:20.417Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-01-29T22:12:48.305Z",
+      "lastUpdatedDate": "2019-02-11T19:54:11.042Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T22:12:48.305Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-11T19:54:11.042Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-02-11T19:54:20.417Z",
+          "executionId": "a0b656c2-764a-4625-aee0-f4374dc3cd13",
+          "step": "OFFICE365_GENERATE_RECOMMENDATIONS_VIEW",
+          "errorCode": null,
+          "errorMessage": "Invalid data"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM6g4OUnsJp+VZezziAgEQgIIDam8HOtB2ycrG1A1pVdr9vdnTm6IJzNDvAm4Pt9/aoDAdQTDSz3A1fFf94LCPXcvBwm6P8xaVmyrSJKfvLO/u2Yavo9qgHh5kpZVGzNTgwMaHh8oCh2DvLa0NPY6hIgog6xvDg0PC5kSDCLIUE4MvBRGsoa8donlMEFPp8PkSn73QiKT6lkOqykRnUHh7DAAAePssqjiGMUDg0De1hYoqyA7ePL+Fs6DKibRpeLsB6Araw6z/7vgSyAyKi8CE3uHV4CA95fvx7OCat3S4294vScZtPzvd57hlvovm6pRQsxdsn4Z94N6OnhpxSUdkMvRAaWR1pypnBaiRkeMQ2EcaW1jrmtRN2CAS/R2rtartUECmeToL4FYntD2GDUgoeQhRetvUVP9/FW8v6Iey4GvZ3qfxL1FHHt3WJWLwfI4sA0SaJa1LEUm/ukOydz0SyRvI63Mxyu6M+v/pemS6dzW1uQ0K0A/UOZifjcdtOG5NORG+Y3lyRJ4el0Wa1BfMBC9MefyVe/QdZR5dm7w4fcPSUVeI3qStPB8AzprxZ/GLjB4FCKtu8ZPMAjJGsg9c5RxNhqw7JnBqP9l5Ntu9nkEoPINx1yF8YXe8Bon9G5GUdPpFi5CXL9lNemiuLGE5IhHlOGtIXRPhideIsp0pdiCxQ9maYoesS4ca3TwMHMZXr8k2xSJc86kSai5spmzQF8BTEdH4eoIt7AxRja+HKtH5ahmUISWstCxsdU707dLBaXveuR7kJyuv1ZxeZZ7Z24+7zQRQeW2APHKGXfff8obqTl/uFezf70pU739F3YOwv+D1l8p4VzAJPv5SX9W3p/IFF2m7cNjGd/gwMPzbjOR9qYhy7c+geJBwKkfXvgAg3/7XslKCTareyaXcwk8DzLpPi+TYncpmhxaVT3WL8y1fxYjJsmrjRxaxSKCOWSAcXWuBudNsiIImXDtV6m3ktWa5C79tsUqGvnIlJYw4GzNB36L1UFNmB3KNom0nvJfriAecXCfM7/Mz2lzNin4eEIxy2tvf2X9Kf63Q08sqBmmxQEDTlmIwu8BYJSuX2bd0u8CVPa0VvmvoYbQCu3DS5PZML2PeDxTomOlxzP+yaket6Z2K79cVt+deHNnmdx//bwV76y6/dj5f90riCD2Fa6IP0COqm5ZZ/TviV8k=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email"
+    },
+    "_rid": "A7pMAL4gUrC0AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC0AAAAAAAAAA==/",
+    "_etag": "\"05002bbc-0000-0000-0000-5c61d2ec0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549914860
+  },
+  {
+    "id": "ip_9c40c6de-ca3b-40a4-86da-f473600eb3b2",
+    "createdDate": "2019-01-29T22:16:33.396Z",
+    "lastUpdatedDate": "2019-01-29T22:16:33.396Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T22:16:33.396Z",
+      "lastUpdatedDate": "2019-01-29T22:16:33.396Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T22:16:33.396Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC1AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC1AAAAAAAAAA==/",
+    "_etag": "\"1a007448-0000-0000-0000-5c50d0c10000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548800193
+  },
+  {
+    "id": "ip_c1c3b8d2-60a6-4bc0-aa93-f2909dc0f905",
+    "createdDate": "2019-01-29T22:40:59.669Z",
+    "lastUpdatedDate": "2019-01-29T22:40:59.669Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T22:40:59.669Z",
+      "lastUpdatedDate": "2019-01-29T22:40:59.669Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T22:40:59.669Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC2AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC2AAAAAAAAAA==/",
+    "_etag": "\"1a00f64b-0000-0000-0000-5c50d67b0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548801659
+  },
+  {
+    "id": "ip_27d1d17f-6f56-41cd-9389-fd6886dfb59e",
+    "createdDate": "2019-01-29T22:41:23.631Z",
+    "lastUpdatedDate": "2019-01-29T22:41:23.631Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T22:41:23.631Z",
+      "lastUpdatedDate": "2019-01-29T22:41:23.631Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T22:41:23.631Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC3AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC3AAAAAAAAAA==/",
+    "_etag": "\"1a00344c-0000-0000-0000-5c50d6930000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548801683
+  },
+  {
+    "id": "ip_101bd415-da0e-4caa-bbae-221abc085095",
+    "createdDate": "2019-01-29T22:41:41.747Z",
+    "lastUpdatedDate": "2019-01-29T22:41:41.747Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T22:41:41.747Z",
+      "lastUpdatedDate": "2019-01-29T22:41:41.747Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T22:41:41.747Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC4AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC4AAAAAAAAAA==/",
+    "_etag": "\"1a009f4c-0000-0000-0000-5c50d6a50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548801701
+  },
+  {
+    "id": "ip_32af9c4b-c276-46e4-b519-8970f72ceff2",
+    "createdDate": "2019-01-29T23:01:34.859Z",
+    "lastUpdatedDate": "2019-01-29T23:01:34.859Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T23:01:34.859Z",
+      "lastUpdatedDate": "2019-01-29T23:01:34.859Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T23:01:34.859Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC5AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC5AAAAAAAAAA==/",
+    "_etag": "\"1a00ce4e-0000-0000-0000-5c50db4e0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548802894
+  },
+  {
+    "id": "ip_b9222320-72a5-4f4a-8f7f-7148ecfee2f4",
+    "createdDate": "2019-01-29T23:36:53.467Z",
+    "lastUpdatedDate": "2019-01-29T23:36:53.467Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T23:36:53.467Z",
+      "lastUpdatedDate": "2019-01-29T23:36:53.467Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T23:36:53.467Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC6AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC6AAAAAAAAAA==/",
+    "_etag": "\"1a003556-0000-0000-0000-5c50e3950000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548805013
+  },
+  {
+    "id": "ip_ffffffff-9828-478f-a6d2-63414bf816e3",
+    "createdDate": "2019-01-29T23:44:43.326Z",
+    "lastUpdatedDate": "2019-01-29T23:44:43.326Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T23:44:43.326Z",
+      "lastUpdatedDate": "2019-01-29T23:44:43.326Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T23:44:43.326Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC7AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC7AAAAAAAAAA==/",
+    "_etag": "\"1a007658-0000-0000-0000-5c50e56b0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548805483
+  },
+  {
+    "id": "ip_0d70b395-fbff-46b1-b302-d823586322e2",
+    "createdDate": "2019-01-29T23:51:29.725Z",
+    "lastUpdatedDate": "2019-01-29T23:51:29.725Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-29T23:51:29.725Z",
+      "lastUpdatedDate": "2019-01-29T23:51:29.725Z",
+      "events": {
+        "new": {
+          "date": "2019-01-29T23:51:29.725Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC8AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC8AAAAAAAAAA==/",
+    "_etag": "\"1a00356c-0000-0000-0000-5c50e7010000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548805889
+  },
+  {
+    "id": "ip_ec90458f-da00-4ee5-bda9-fab259958c66",
+    "createdDate": "2019-01-30T01:29:17.559Z",
+    "lastUpdatedDate": "2019-01-30T01:29:17.559Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T01:29:17.559Z",
+      "lastUpdatedDate": "2019-01-30T01:29:17.559Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T01:29:17.559Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC9AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC9AAAAAAAAAA==/",
+    "_etag": "\"1a00e078-0000-0000-0000-5c50fded0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548811757
+  },
+  {
+    "id": "ip_b4e677d5-ae13-4b8a-ae91-1f21d8d57f4d",
+    "createdDate": "2019-01-30T01:37:57.658Z",
+    "lastUpdatedDate": "2019-01-30T01:37:57.658Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T01:37:57.658Z",
+      "lastUpdatedDate": "2019-01-30T01:37:57.658Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T01:37:57.658Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC+AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC+AAAAAAAAAA==/",
+    "_etag": "\"1a004b7a-0000-0000-0000-5c50fff50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548812277
+  },
+  {
+    "id": "ip_c6048870-eab0-4958-8d6b-006f571a66ef",
+    "createdDate": "2019-01-30T18:47:11.617Z",
+    "lastUpdatedDate": "2019-01-30T18:47:11.617Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T18:47:11.617Z",
+      "lastUpdatedDate": "2019-01-30T18:47:11.617Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T18:47:11.617Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrC-AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC-AAAAAAAAAA==/",
+    "_etag": "\"1a00e0f3-0000-0000-0000-5c51f1300000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548874032
+  },
+  {
+    "id": "ip_b466e7b6-db98-44e0-89e8-7b3698937707",
+    "createdDate": "2019-01-30T18:53:54.782Z",
+    "lastUpdatedDate": "2019-01-30T18:53:54.782Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T18:53:54.782Z",
+      "lastUpdatedDate": "2019-01-30T18:53:54.782Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T18:53:54.782Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDAAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDAAAAAAAAAAA==/",
+    "_etag": "\"1a00e5f5-0000-0000-0000-5c51f2c20000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548874434
+  },
+  {
+    "id": "ip_a6ced1d8-6366-4041-8cb8-1aa7aadd1c4a",
+    "createdDate": "2019-01-30T19:10:15.310Z",
+    "lastUpdatedDate": "2019-01-30T19:10:15.310Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T19:10:15.310Z",
+      "lastUpdatedDate": "2019-01-30T19:10:15.310Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T19:10:15.310Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDBAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDBAAAAAAAAAA==/",
+    "_etag": "\"1a00cff7-0000-0000-0000-5c51f6970000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548875415
+  },
+  {
+    "id": "ip_23182c53-f203-4ee4-832b-af6e2628bdd9",
+    "createdDate": "2019-01-30T19:44:26.771Z",
+    "lastUpdatedDate": "2019-01-30T19:44:26.771Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T19:44:26.771Z",
+      "lastUpdatedDate": "2019-01-30T19:44:26.771Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T19:44:26.771Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDCAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDCAAAAAAAAAA==/",
+    "_etag": "\"1a00e6fd-0000-0000-0000-5c51fe9a0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548877466
+  },
+  {
+    "id": "ip_3502717a-c90a-4dc1-a9eb-0e15b3a16dfb",
+    "createdDate": "2019-01-30T20:11:22.410Z",
+    "lastUpdatedDate": "2019-01-30T20:11:22.410Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T20:11:22.410Z",
+      "lastUpdatedDate": "2019-01-30T20:11:22.410Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T20:11:22.410Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDDAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDDAAAAAAAAAA==/",
+    "_etag": "\"1b00ff01-0000-0000-0000-5c5204ea0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548879082
+  },
+  {
+    "id": "ip_89e6eb15-304f-40d5-afe0-e32c2c0f29f6",
+    "createdDate": "2019-01-30T20:20:10.216Z",
+    "lastUpdatedDate": "2019-01-30T20:20:10.216Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-30T20:20:10.216Z",
+      "lastUpdatedDate": "2019-01-30T20:20:10.216Z",
+      "events": {
+        "new": {
+          "date": "2019-01-30T20:20:10.216Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDFAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDFAAAAAAAAAA==/",
+    "_etag": "\"1b000102-0000-0000-0000-5c5206fa0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548879610
+  },
+  {
+    "id": "ip_29583ecf-5cd5-42d1-be6f-9af0f0b169b1",
+    "createdDate": "2019-01-31T02:03:58.128Z",
+    "lastUpdatedDate": "2019-01-31T02:03:58.128Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T02:03:58.128Z",
+      "lastUpdatedDate": "2019-01-31T02:03:58.128Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T02:03:58.128Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDIAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDIAAAAAAAAAA==/",
+    "_etag": "\"1b00c92c-0000-0000-0000-5c52578e0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548900238
+  },
+  {
+    "id": "ip_8f67dbca-2912-4eaf-a831-be8bea6e41be",
+    "createdDate": "2019-01-31T02:27:48.263Z",
+    "lastUpdatedDate": "2019-01-31T02:27:48.263Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T02:27:48.263Z",
+      "lastUpdatedDate": "2019-01-31T02:27:48.263Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T02:27:48.263Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDJAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDJAAAAAAAAAA==/",
+    "_etag": "\"1b008d30-0000-0000-0000-5c525d240000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548901668
+  },
+  {
+    "id": "ip_df601158-f12b-46bc-bd0b-a32f92c04546",
+    "createdDate": "2019-01-31T19:50:53.762Z",
+    "lastUpdatedDate": "2019-01-31T19:50:53.762Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T19:50:53.762Z",
+      "lastUpdatedDate": "2019-01-31T19:50:53.762Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T19:50:53.762Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDXAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDXAAAAAAAAAA==/",
+    "_etag": "\"1b0087c3-0000-0000-0000-5c53519d0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548964253
+  },
+  {
+    "id": "ip_da2cb480-4b28-4b3d-8810-b65c6e8889c5",
+    "createdDate": "2019-01-31T19:53:26.827Z",
+    "lastUpdatedDate": "2019-01-31T19:53:26.827Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T19:53:26.827Z",
+      "lastUpdatedDate": "2019-01-31T19:53:26.827Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T19:53:26.827Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDYAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDYAAAAAAAAAA==/",
+    "_etag": "\"1b0088c3-0000-0000-0000-5c5352360000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548964406
+  },
+  {
+    "id": "ip_7d95b21f-f8c9-4918-b328-4ac9af35c1c2",
+    "createdDate": "2019-01-31T19:54:12.567Z",
+    "lastUpdatedDate": "2019-01-31T19:54:12.567Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T19:54:12.567Z",
+      "lastUpdatedDate": "2019-01-31T19:54:12.567Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T19:54:12.567Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDZAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDZAAAAAAAAAA==/",
+    "_etag": "\"1b0089c3-0000-0000-0000-5c5352640000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548964452
+  },
+  {
+    "id": "ip_4ccf3306-764e-4e2b-bd7f-1c9b8d436d7b",
+    "createdDate": "2019-01-31T20:24:59.984Z",
+    "lastUpdatedDate": "2019-01-31T20:24:59.984Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T20:24:59.984Z",
+      "lastUpdatedDate": "2019-01-31T20:24:59.984Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T20:24:59.984Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDaAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDaAAAAAAAAAA==/",
+    "_etag": "\"1b0022c9-0000-0000-0000-5c53599b0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548966299
+  },
+  {
+    "id": "ip_24166a7a-6665-452c-9bb7-5d4db4d6003d",
+    "createdDate": "2019-01-31T20:28:57.865Z",
+    "lastUpdatedDate": "2019-01-31T20:28:57.865Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T20:28:57.865Z",
+      "lastUpdatedDate": "2019-01-31T20:28:57.865Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T20:28:57.865Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDbAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDbAAAAAAAAAA==/",
+    "_etag": "\"1b0023c9-0000-0000-0000-5c535a890000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548966537
+  },
+  {
+    "id": "ip_07b40767-7e4f-4b90-aba1-d43a7dd47e05",
+    "createdDate": "2019-01-31T20:35:08.814Z",
+    "lastUpdatedDate": "2019-01-31T20:35:08.814Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-01-31T20:35:08.814Z",
+      "lastUpdatedDate": "2019-01-31T20:35:08.814Z",
+      "events": {
+        "new": {
+          "date": "2019-01-31T20:35:08.814Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDcAAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDcAAAAAAAAAA==/",
+    "_etag": "\"1b00dfca-0000-0000-0000-5c535bfc0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548966908
+  },
+  {
+    "id": "ip_03c5769b-ca6f-44d4-8032-9901b5be3bf0",
+    "createdDate": "2019-02-01T03:42:43.294Z",
+    "lastUpdatedDate": "2019-02-01T03:42:43.294Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-01T03:42:43.294Z",
+      "lastUpdatedDate": "2019-02-01T03:42:43.294Z",
+      "events": {
+        "new": {
+          "date": "2019-02-01T03:42:43.294Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrD5AAAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrD5AAAAAAAAAA==/",
+    "_etag": "\"20002404-0000-0000-0000-5c53c0330000\"",
+    "_attachments": "attachments/",
+    "_ts": 1548992563
+  },
+  {
+    "id": "ip_7edc0cf2-b976-427e-8424-df23785ca33b",
+    "createdDate": "2019-02-03T22:21:55.020Z",
+    "lastUpdatedDate": "2019-02-03T22:24:54.933Z",
+    "office365": {
+      "authState": "authCancelled",
+      "createdDate": "2019-02-03T22:21:55.020Z",
+      "lastUpdatedDate": "2019-02-03T22:24:54.933Z",
+      "events": {
+        "new": {
+          "date": "2019-02-03T22:21:55.020Z"
+        },
+        "authCancelled": {
+          "date": "2019-02-03T22:24:54.933Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAFAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAFAQAAAAAAAA==/",
+    "_etag": "\"210034f1-0000-0000-0000-5c576a360000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549232694
+  },
+  {
+    "id": "ip_c3bc27eb-fcba-4caf-9cfc-3ef68b74139e",
+    "createdDate": "2019-02-03T22:44:37.575Z",
+    "lastUpdatedDate": "2019-02-03T22:44:37.575Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-03T22:44:37.575Z",
+      "lastUpdatedDate": "2019-02-03T22:44:37.575Z",
+      "events": {
+        "new": {
+          "date": "2019-02-03T22:44:37.575Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAGAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAGAQAAAAAAAA==/",
+    "_etag": "\"210086f2-0000-0000-0000-5c576ed50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549233877
+  },
+  {
+    "id": "ip_607916df-cec9-41b4-b225-dcdb42a77550",
+    "createdDate": "2019-02-03T23:11:51.410Z",
+    "lastUpdatedDate": "2019-03-06T01:13:18.108Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-03T23:11:51.410Z",
+      "lastUpdatedDate": "2019-03-06T01:13:18.108Z",
+      "events": {
+        "new": {
+          "date": "2019-02-03T23:11:51.410Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-17T22:40:36.825Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-02-24T21:52:04.905Z",
+          "executionId": "51e89144-7778-4516-ac48-ca89c772fe1c",
+          "step": "OFFICE365_GENERATE_DASHBOARD_VIEW",
+          "errorCode": 162020,
+          "errorMessage": "Cannot destructure property `displayName` of 'undefined' or 'null'."
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM5v4CE+4JYX5gMvFlAgEQgIIDajBUcqI2nrAZbeWtJq1Xc8e51gm9tDys+y4j57g7wiDn+AvU36q5CbY7rV3AWW+bNXEGU6asZG/GJuwQS5R6ooD8NuXd4jjhfMhBv6GmBbyFx6iYvdeNqmbGtvYnxPyckxcm2N3OMaiR8r7CPL5RI0lzqDLzzxcSYhs1WyNkfUsdEw+v0GqaS84XxFbdoe4E4fzNju9bdScGfQ5HhdYTbV5jQdlJK6oLQl3pzRH1nYuYawIiDA7mwl4gIJNVcPS3H0TkzH8ihMQ2WTDw6E7QeRHKZZGsMBgM+3vTQuv/VKGFcOtNyLfrVTwWH1Lgs7j79jFiklydEhfdI3zPvMBRGmulhFu0j49/ogRtWKfQUY2M5avrJj4OKCarh4IF7PytYIuklHymhSjPnmIVr/W9L8VMDz1noNv2T/uaJ9eFOQAsxjg+ElvH52vPuKQxhQf0TMeJzeDkUgKs7ncjpUORwbZ2lYHdzJ3mnbHBCHTT/KL8dPkeRxqCFIeR/1a/oHQgXyjiwcmBkDBEfPaVStrnaC+3qLB2szhtM1KL6nfxBbXBYkHZxmGVeZXuS856TPPTkFkJQZqbIuD+Ba1/ZQDsFHlZE6IxR41gffZgWXXpQwyt2SpNVXJEUQ/MoV+0rgsHvKrnGZGapVDRVCTPTNHGcwDKSDKD1bL0gf0RP4zhIJ16gQkiAohK56aXmHgRMeKdBz5nAxZazKnbgtAgY40uchbKm1FomXHknRIKtoU59DTWleeMhlms5VSp74XVLwYhSp9ppJt6BhDBDzu+PpvPuZnJFE3g9pgi8xKC21Sz8810aDqv7JIpeo5vNY8tyiCHGxi9EMk06QfCMkUX3fXSjeTb/82ix/zcepqrmrwYpHKrnc3CQWTPRwM2fK6tOmMPv2XKiVXkgzScTfzKxPeIgvqzB1BhYpBeuRewj8WRBIPlVWZd+mrzMbC/cnB2agzwHr7KQsTV/yx1fpsHUt3XNTmRgXfSB6jIT0/JocUuqwhnFwmxGnx5fzc4C4DnKmBvwTfB6VBsuxSziUmwx5BvQABBokoyRwPqmJ8KtSyKnCwzGbCvkFhECR+/eMuzJTobDQ0mo4Avxe++1dzVxs2Gd0TRfwhy4mReonkiz2b4lnZHctZ6GPPOq3XVyzYUV1th10XOiCp1kHmgOOI=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-06T01:13:18.108Z"
+    },
+    "_rid": "A7pMAL4gUrAHAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAHAQAAAAAAAA==/",
+    "_etag": "\"090009b9-0000-0000-0000-5c7f1eae0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1551834798
+  },
+  {
+    "id": "ip_2b15cf1d-bc69-474e-bd74-c1fbc2e8fc65",
+    "createdDate": "2019-02-03T23:19:12.874Z",
+    "lastUpdatedDate": "2019-02-03T23:19:12.874Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-03T23:19:12.874Z",
+      "lastUpdatedDate": "2019-02-03T23:19:12.874Z",
+      "events": {
+        "new": {
+          "date": "2019-02-03T23:19:12.874Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAIAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAIAQAAAAAAAA==/",
+    "_etag": "\"210081f6-0000-0000-0000-5c5776f00000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549235952
+  },
+  {
+    "id": "ip_1c535183-38d8-466b-9fd8-06bd3d6cb92a",
+    "createdDate": "2019-02-04T01:20:29.463Z",
+    "lastUpdatedDate": "2019-02-04T01:20:29.463Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-04T01:20:29.463Z",
+      "lastUpdatedDate": "2019-02-04T01:20:29.463Z",
+      "events": {
+        "new": {
+          "date": "2019-02-04T01:20:29.463Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAJAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAJAQAAAAAAAA==/",
+    "_etag": "\"2200c703-0000-0000-0000-5c57935d0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549243229
+  },
+  {
+    "id": "ip_ffffffff-2dc5-453b-8fd3-39372aae7d21",
+    "createdDate": "2019-02-05T00:49:57.414Z",
+    "lastUpdatedDate": "2019-02-05T00:49:57.414Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-05T00:49:57.414Z",
+      "lastUpdatedDate": "2019-02-05T00:49:57.414Z",
+      "events": {
+        "new": {
+          "date": "2019-02-05T00:49:57.414Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAZAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAZAQAAAAAAAA==/",
+    "_etag": "\"2500856e-0000-0000-0000-5c58ddb50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549327797
+  },
+  {
+    "id": "ip_8b9d18b4-7b3f-48c1-976f-fda94d930662",
+    "createdDate": "2019-02-05T04:06:27.324Z",
+    "lastUpdatedDate": "2019-02-05T04:06:27.324Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-05T04:06:27.324Z",
+      "lastUpdatedDate": "2019-02-05T04:06:27.324Z",
+      "events": {
+        "new": {
+          "date": "2019-02-05T04:06:27.324Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAmAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAmAQAAAAAAAA==/",
+    "_etag": "\"2500d184-0000-0000-0000-5c590bc30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549339587
+  },
+  {
+    "id": "ip_9b5b4ca8-28e4-416c-afc2-2af21136f319",
+    "createdDate": "2019-02-06T21:00:15.839Z",
+    "lastUpdatedDate": "2019-02-06T21:00:15.839Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T21:00:15.839Z",
+      "lastUpdatedDate": "2019-02-06T21:00:15.839Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T21:00:15.839Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAxAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAxAQAAAAAAAA==/",
+    "_etag": "\"030073f9-0000-0000-0000-5c5b4adf0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549486815
+  },
+  {
+    "id": "ip_c036b34f-6bad-45a6-8cc1-70f4cb88be57",
+    "createdDate": "2019-02-06T21:00:44.407Z",
+    "lastUpdatedDate": "2019-02-06T21:00:44.407Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T21:00:44.407Z",
+      "lastUpdatedDate": "2019-02-06T21:00:44.407Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T21:00:44.407Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAyAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAyAQAAAAAAAA==/",
+    "_etag": "\"030085f9-0000-0000-0000-5c5b4afc0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549486844
+  },
+  {
+    "id": "ip_dd9a3950-bfac-4107-b4d2-63e90bd53493",
+    "createdDate": "2019-02-06T21:07:13.743Z",
+    "lastUpdatedDate": "2019-02-06T21:07:13.743Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T21:07:13.743Z",
+      "lastUpdatedDate": "2019-02-06T21:07:13.743Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T21:07:13.743Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAzAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAzAQAAAAAAAA==/",
+    "_etag": "\"030005fa-0000-0000-0000-5c5b4c810000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549487233
+  },
+  {
+    "id": "ip_693abde2-f9c3-4038-8ea5-3338db88f0ca",
+    "createdDate": "2019-02-06T21:22:29.737Z",
+    "lastUpdatedDate": "2019-02-06T21:22:29.737Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T21:22:29.737Z",
+      "lastUpdatedDate": "2019-02-06T21:22:29.737Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T21:22:29.737Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrA2AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrA2AQAAAAAAAA==/",
+    "_etag": "\"0300f2fb-0000-0000-0000-5c5b50150000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549488149
+  },
+  {
+    "id": "ip_9aca9a38-7c02-40cd-acf8-a8ebffee86fc",
+    "createdDate": "2019-02-06T21:33:37.656Z",
+    "lastUpdatedDate": "2019-02-06T21:33:37.656Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T21:33:37.656Z",
+      "lastUpdatedDate": "2019-02-06T21:33:37.656Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T21:33:37.656Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrA7AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrA7AQAAAAAAAA==/",
+    "_etag": "\"030077fd-0000-0000-0000-5c5b52b10000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549488817
+  },
+  {
+    "id": "ip_ba2ec5e1-3fa3-4aa0-b5db-a9a017abffd2",
+    "createdDate": "2019-02-06T22:02:36.751Z",
+    "lastUpdatedDate": "2019-02-06T22:02:36.751Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T22:02:36.751Z",
+      "lastUpdatedDate": "2019-02-06T22:02:36.751Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T22:02:36.751Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrBAAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrBAAQAAAAAAAA==/",
+    "_etag": "\"04009200-0000-0000-0000-5c5b597c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549490556
+  },
+  {
+    "id": "ip_9eab9e66-98e8-4356-bcb5-2271a70f3570",
+    "createdDate": "2019-02-06T22:38:11.945Z",
+    "lastUpdatedDate": "2019-02-06T22:38:11.945Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T22:38:11.945Z",
+      "lastUpdatedDate": "2019-02-06T22:38:11.945Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T22:38:11.945Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrBBAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrBBAQAAAAAAAA==/",
+    "_etag": "\"0400b404-0000-0000-0000-5c5b61d30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549492691
+  },
+  {
+    "id": "ip_5dc01af0-9ff6-4ec8-adda-a8fc3a7fa3c4",
+    "createdDate": "2019-02-06T22:46:39.564Z",
+    "lastUpdatedDate": "2019-02-06T22:46:39.564Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-06T22:46:39.564Z",
+      "lastUpdatedDate": "2019-02-06T22:46:39.564Z",
+      "events": {
+        "new": {
+          "date": "2019-02-06T22:46:39.564Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrBEAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrBEAQAAAAAAAA==/",
+    "_etag": "\"04008b05-0000-0000-0000-5c5b63cf0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549493199
+  },
+  {
+    "id": "ip_544841ad-8388-4fab-b659-cbdd46a0902c",
+    "createdDate": "2019-02-07T22:00:01.888Z",
+    "lastUpdatedDate": "2019-02-07T22:00:01.888Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-07T22:00:01.888Z",
+      "lastUpdatedDate": "2019-02-07T22:00:01.888Z",
+      "events": {
+        "new": {
+          "date": "2019-02-07T22:00:01.888Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrBoAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrBoAQAAAAAAAA==/",
+    "_etag": "\"050056a0-0000-0000-0000-5c5caa610000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549576801
+  },
+  {
+    "id": "ip_03025cd8-ec14-49df-9755-71ebf4de5b05",
+    "createdDate": "2019-02-08T02:42:04.017Z",
+    "lastUpdatedDate": "2019-02-08T02:42:04.017Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-08T02:42:04.017Z",
+      "lastUpdatedDate": "2019-02-08T02:42:04.017Z",
+      "events": {
+        "new": {
+          "date": "2019-02-08T02:42:04.017Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrBxAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrBxAQAAAAAAAA==/",
+    "_etag": "\"050091b5-0000-0000-0000-5c5cec7c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549593724
+  },
+  {
+    "id": "ip_9ed0d5b4-0912-4744-8689-15c6a5c45ba8",
+    "createdDate": "2019-02-08T03:56:35.261Z",
+    "lastUpdatedDate": "2019-02-08T03:56:35.261Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-08T03:56:35.261Z",
+      "lastUpdatedDate": "2019-02-08T03:56:35.261Z",
+      "events": {
+        "new": {
+          "date": "2019-02-08T03:56:35.261Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrB1AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrB1AQAAAAAAAA==/",
+    "_etag": "\"05000aba-0000-0000-0000-5c5cfdf30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549598195
+  },
+  {
+    "id": "ip_2804ff7a-eb65-4b48-8d58-6f80c2420e3e",
+    "createdDate": "2019-02-08T04:11:41.298Z",
+    "lastUpdatedDate": "2019-02-08T04:11:41.298Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-08T04:11:41.298Z",
+      "lastUpdatedDate": "2019-02-08T04:11:41.298Z",
+      "events": {
+        "new": {
+          "date": "2019-02-08T04:11:41.298Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrB2AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrB2AQAAAAAAAA==/",
+    "_etag": "\"0500acba-0000-0000-0000-5c5d017d0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549599101
+  },
+  {
+    "id": "ip_b40d2499-9925-45c5-a810-5b4cf1e34e1b",
+    "createdDate": "2019-02-10T18:56:52.299Z",
+    "lastUpdatedDate": "2019-02-10T18:56:52.299Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-10T18:56:52.299Z",
+      "lastUpdatedDate": "2019-02-10T18:56:52.299Z",
+      "events": {
+        "new": {
+          "date": "2019-02-10T18:56:52.299Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrB3AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrB3AQAAAAAAAA==/",
+    "_etag": "\"000017f1-0000-0000-0000-5c6073f40000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549825012
+  },
+  {
+    "id": "ip_3ee948ea-d3c8-4393-8625-5c037bb41a59",
+    "createdDate": "2019-02-11T03:03:31.164Z",
+    "lastUpdatedDate": "2019-02-11T03:03:31.164Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-11T03:03:31.164Z",
+      "lastUpdatedDate": "2019-02-11T03:03:31.164Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T03:03:31.164Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrCMAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCMAQAAAAAAAA==/",
+    "_etag": "\"010024da-0000-0000-0000-5c60e6030000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549854211
+  },
+  {
+    "id": "ip_b30dcb72-f639-4755-b682-b3b0712e8d66",
+    "createdDate": "2019-02-11T19:31:48.058Z",
+    "lastUpdatedDate": "2019-03-24T23:37:43.400Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-11T19:31:48.058Z",
+      "lastUpdatedDate": "2019-03-24T23:37:43.400Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T19:31:48.058Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-27T21:17:50.500Z",
+          "userPrincipalName": "Susmitha.Gannu@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMfvsJIMI0TByRXN/pAgEQgIIDahurrsOUIumTDVTPPSpNqcj2mn12p6spHBbz1BHhxcIEoyxqqlp0bxA8eB2w9rDZ4MNzgSk6PDEawsBrtlzuVt7t6GSqINzjEEzXUWkHMtZiuNXtOTMLjCkKzsvxUIJU724+G/eWq3lbbbzRAWhOs8NAJHOuJ/vl+ZnRVt9MBlHUyT/ejE+a3VVdPcaVz0QLE7ePKKH2e0HAppH/rKWLF1zUUvslk+/93EhjPRc+pIpF/rPn993RqIUQ+7A2xZYl8xK6eqBba9cbVscXNGjlIBoLfswzsB0Ne2ybhTAynb5G1MwOXwX+Jb9mgGQmzIZiSsFKhGE8f5nP/SYv8jrtp7jL0zMTCHjtU1Fr1Jga7Gn5fFxq7EOh4E/7qf4j8lQZQM368oQlhS3FZ/vA9gurQN/K2rDTYNhW5W+XhsK1fiElaWSvFw4U/N/BpfWhWG/1TMNIcPNq6tnp9oGAvBB0USQIvyY9jtmzsmc+WBjxiUu9WX1lV6h6mNJ++PTplIQPS2cfVKNaZCq4tR/NdKO7GLRdhzmmbwhDUfcxoEu6fubklI34E89nrwSjAKUQXQK9z1zIpkbBd4ZCHXs4UU0S36LsREFpv+lfr1JMxYAsC6p33dNmp6ddyQ3bh8eRO/m70BNVGhDM38b5zBMESE5sJjraVZ0lEfxx8FZ3mIqNHNf1gpM6U2EguGF7J4HF08xDCsaf2yBp4V68BBzYTp3A8gnWb4dGtWTiPTL0gMYopSWBY9dsbI2OtDKoayHpH7sXLiCdlH/2tn2EkU5u9Xub3jmm9+G3u7bBWq56pPCZxPJsLsKb8tPDQhDdSyWYsPwTbDwc6wczRN3M/ZxeI3QYTXnnjzHNLsEDZl+rtecDldm5BpNJ/kVeLQU6FFgopISHYsxb0oUEqGOM+yRkEPG+PGn2jvz1Fpdi+MAMuKIUQLv81UqNlJbwW2sHff7Ge2kZufHpC8rmvsiYYFw5+gkXVEkxGWqFyt5SiidzK3I3E3v5b65dfRDGCWYfwf4BpM14uWfCIIhF/ASTPbPdttZ8mzZip8FqGNl/w3WiTm2p4Skn2YUK6GU1VAFx/cAwJ9UdwrTunPNoXbMP19jwZfbNn15OFtTiQe8Cr6eMowjndo7RFT7PbXvFLv/+DlOn3bZtbLSoteJs3vmJBpg=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-24T23:37:43.400Z"
+    },
+    "_rid": "A7pMAL4gUrCQAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCQAQAAAAAAAA==/",
+    "_etag": "\"44008df3-0000-0000-0000-5c9814c70000\"",
+    "_attachments": "attachments/",
+    "_ts": 1553470663
+  },
+  {
+    "id": "ip_8466a5d2-b70b-4633-a0bc-4c90fb5f9e33",
+    "createdDate": "2019-02-11T20:27:13.632Z",
+    "lastUpdatedDate": "2019-02-12T00:23:27.382Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-11T20:27:13.632Z",
+      "lastUpdatedDate": "2019-02-12T00:23:17.703Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T20:27:13.632Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T00:23:17.703Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-02-12T00:23:27.382Z",
+          "executionId": "c00b1d43-a3b4-4349-999f-4b4266b0ed10",
+          "step": "OFFICE365_GENERATE_RECOMMENDATIONS_VIEW",
+          "errorCode": null,
+          "errorMessage": "Invalid data"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMNyjZqv9eYcTJwRETAgEQgIIDahTwONF4jKym4lUZbIda8txe6a+diU3vkwTDjdeLlKDA+ijOdlww3aaygaFtdvfKu3MoDp98O3yI40dKMEtNntE7YZFitTePFAdo+71OTyReOhrHqImisMeBwGoEeWTwQqCDaTXC9RO+EVNp/oTDJVBWQuYA7IZTA1aYhZ9e/dCpNRn83pf4KXwJGE0GSrL/M671TbJrnzULUzxgWBZW+voP9XEiICvCyMAsdD2gEaPvYeyWVDJ02+TvtT7NrX5Xr0PJ8zwO5TbixuVvXZ4gW9UmXVjIqxZ1MgLygKfTkO1Hxc8pA50rPx0EB7g6J7XStNGu0lHNkg9D+eoRmMfWu7Psk+sMaxSMMMzMsiMY9HGRHALkaix5OmRLTXRY2Ad+Pcbe4gX/43SDs4rC35FwhqOI+78CjCmkqFWS78VC1ik12pNYvLMGQvy76ASx0XmNYHoN8iPGlDNWaSyWiyExcegvavyAAIWJqKVrZ4aP+JtCOk/zdXvooSDfbTniXv8FLrfA2dFvUnzH3lihhpEN+EjyNeJuVgO1KOrZLz55iQIvSm+uN4TUbFRJN+Mgn0Wdb2on+mPko26KBGNV/STxnp0wWvHD8qBI85oKGqgeGY43Mgd7oSko5KDEQTH/e+l0eCZoLVh3eSx2Yz40VA35L3s5rCeqBHXvH9aiYPErxTaRSHBMuY97Vh4/dMOv16NGRJ7jmp8TdmVKK16O0fV6XhELjU8sgmNkQ4ZnljDIKZSg0spFckkqrI+1PdWm0MapqHn7s4czT7gRhxS+XK6tb/0Vk8T0K3wIp5G3xbvO1AfmUtuszshmMy1eA5VJCb3FckXzPhgKO+hX/JKLtlqmdmPE2toNTuKkZ8g8p4fJ1SNfZTTw4nnBMeubqa/N56rqL85Awks4Iq2gWTPZAyQ3vAqsnbio1xr+osBwHDasAv0XOYog2HwgLuO3YelNYfG9BCql5gMzl1kuPM0QR6Ba3bV4ma2LPLuvDGKAYvE8nZX0GoBFECJMIxiJxWIxY7jyL5v0J0cAnl/9SvRsznZzh88zx1sCEr+NVM5s2Q2K/S/zqF927AlPlkqb93z46KXSzrOod1EISFUqanDCvzrUfFeLLRJekhjICw8FeVsV2K6A0Zm9scLJenkoYwGzMVgc4eMPPcE2WRaafqU=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email"
+    },
+    "_rid": "A7pMAL4gUrCRAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCRAQAAAAAAAA==/",
+    "_etag": "\"09008fc5-0000-0000-0000-5c6211ff0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549931007
+  },
+  {
+    "id": "ip_8c38c0ef-2c79-4a69-8065-042f18718164",
+    "createdDate": "2019-02-11T20:46:34.427Z",
+    "lastUpdatedDate": "2019-02-12T01:15:25.309Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-11T20:46:34.427Z",
+      "lastUpdatedDate": "2019-02-12T01:15:25.309Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T20:46:34.427Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T01:15:08.979Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM/JFJICtP5v6LQ0LcAgEQgIIDavxJD4S4siBSXNuTP7i7H+1k60jPLwBswYjm1mhXll/CZOnXYMpIvifubYuERbRmBzoaJo/VqgvNT5UVOEBbbNnZqM6HYyVUeEOiI7IO72Yca+oyX+UrlX7pTm11aaQNVZ6excFYRGlDzO66Ac6nBrjh4cbP5uYXSWQ4fI+8ikJyvPQnRarHQSDDBh7xwlnnUrR7T8M3EjbX1t9XYWp7wGgVa1z9ERDLhUYBrumc9OzMkYWMAfewpjRXdmhP9DyfMAJmyJt/Smph+POE9/nffDblycUezbBP7sZvesMF6SfqODdFB8MFxdvoRT0oRJgze+zCK9eudiZT2xWZLNK8KLaEv3KH/CpLZyX7W/old6EfR63b9Qi0IxN67RzJdDoEeKnBFjyy30pXUVeLwSBPIvbuVA+RhL3EIKDzeGhj5cSrUIyyXtq382bhhWT0ZAMxtkjwVcBni/a4C9wbFgU8/b66oJJPkltQAmUubxQhwhp0BRvrI/wTmypTy52ddRRrqlMhQZs69I4SE/LXSfT0jFQCq1T60lUtAj2RcFKT2yZfHXVLW80uQ63Sur2Fcz0Ks2Zmkep8sXmAmikl1u+ROBB0eDjV1v4t0sMEepl3MpziAVpZ13ISr6RABpggV+m3PR1zf5T2wbCMF8ONP7hzA9rNGmzAUqhMMSGCUXCBvQtiMK2upd3a2V0A9AccqxBlmhmX2eBau5oOJeq9nA0EMCI1w0ep6QW4KSaBqYq19f6rX7C12kJBhmb1ANI4xQDselc02IOAZ7y2W5/QCLVVT+2Z2Ptb/CuL088LTu+zOQJq21lcZVDDICoAUn/ZiwLPNX3mnvt/A03P3g1jPCTwL0/GcwlFd/ASnvXBjJ8EnnCXjBI7rU+diZlENKyUbpStnmy2cJYrSaP7pCX0PpEm77LOxgZEl8eutfZ+mRMv3cZMby3XJZ2P08b9iOuPiP0V/Rzb8t7CToE3vvP7KME4MuuPjSme0WFWlB/trTQKOaKU9e5PXV+pf9DXd1toPBA1MsX06bwKmLNUkCbjW94BE292ZtXqVhwJJJRRmSSIkcJTlUSDn+B/gNxRwbVLC9+3/pPcRm11F/Ll87VM0k7Wvm/GaqTVWyr21spRu2yyM5aUcmY4zBIWuQxzst5yn5E9Dv7l+7bdkN1Ayck=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-12T01:15:25.309Z"
+    },
+    "_rid": "A7pMAL4gUrCVAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCVAQAAAAAAAA==/",
+    "_etag": "\"0a009ca1-0000-0000-0000-5c621e2d0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549934125
+  },
+  {
+    "id": "ip_66f65c6e-36ac-4af1-9d42-3a2299380886",
+    "createdDate": "2019-02-11T21:01:31.048Z",
+    "lastUpdatedDate": "2019-02-12T21:06:25.814Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-11T21:01:31.048Z",
+      "lastUpdatedDate": "2019-02-12T21:06:25.814Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T21:01:31.048Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T21:06:18.384Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMORIoichMrmAIN+9yAgEQgIIDanU0h3BBu3VTRlXOUi2srD0MNj+UvNG1yIOGtFRikjloR1P+R3LzbtIZiXzv6Nq4O5GSnZsP34r5zpyfM61TVmQSOQK4h/QNfoozbfecXjnPZYzaP6msjI1vhQ1xKD1Q7dqKgiTBzWVNR7w7OfhEKbHVFwllzvlDl5U66+rXasbIRDl3+1jvzbz//ZPJFqJayujrBnGNmjCvFEgpIMxAhXtTTBc0YaWaAkE4baqdYOjy7rzSXT8XDLKcY9ApQWzXpcjezu5m6JqCk9jIfiQEcKXj7Ejg836tsVjgrXuopiclPVs+g0KGQNoohQEA7oMn/eTPwcmpWgJBqKUQBvdw/MGZB8cTGURA8j4q+Iz71voVEzSJ71Q0eBXTZmqA2eHVSCTz8vWXzj05LH3TbDBtBHu1SWxpfFONVEf8bqDJJ/cf7C/JHLTnyAHiVSJKh/tM7N2agwoMYTMhD5tlPCJ5+EtlXDPsS8KIfeXCN64yIvUXF0LuBBt+hc7tsjFX5sLt8z26Tlm5gxfz5SqUqYQ6L9EE70F45spN73ADcAFC/tUiLnhQmiaXy/74L0YZiNQe8NORDDNnJbW968OLe2+htSzTwOqlycN99yknD7Kaw/0W+hqZS0yEO5nlh5uWtehQ963JnPHdO1zolSD2dobHiKMCjCLi9XwkD7GP9HR5/Kri+kzwCw4XJSmIxvKghrSojFASCRF7O2qLSL/MfArd2TW1PPBwgFwvn6x1kplxLn3kQb5IVWKqrlSoic9tRHm16xrwFWdlmJzuLBSswvp5W42j9WRJB6Wh+5sMo8NxpojBZeQasMWHGPKBC3iU1QRfPYhLv1cjr/CsjimGhReZhYz/gm+mxetj8lmxUxGWm9D6vSYp5xG+/TZ+kA+Wl4/fCSZODZqfzefktIaHYH0R51g/DVtVR9IKMM0ZEZBxBbDjnHiwYd+CQ+fl+YVJqFiPEgrJOFgXrUXrdj6CJWGg4CJMYy4cuTCfEwKCyLeOpnj+n4e771+K47HguqsLeY3uWW8/wpeamz02Qm42ZbJ8zX92kay02M4MKVOyKhHQiVG3dLAT6juMRK0K6uRE/g2LUs+0iINf/nyQQU5lI0AjNg/GNyl5WmI/ccpWN8/TWcBtud6rHijwYZ+Car9ZqS+luZqWalUd4T0418s=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-12T21:06:25.814Z"
+    },
+    "_rid": "A7pMAL4gUrCWAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCWAQAAAAAAAA==/",
+    "_etag": "\"0c006443-0000-0000-0000-5c6335510000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550005585
+  },
+  {
+    "id": "ip_aad0bdee-ad5a-4aa9-98d5-dd43c623e6f7",
+    "createdDate": "2019-02-11T22:47:06.220Z",
+    "lastUpdatedDate": "2019-02-12T02:26:53.054Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-11T22:47:06.220Z",
+      "lastUpdatedDate": "2019-02-12T02:26:53.054Z",
+      "events": {
+        "new": {
+          "date": "2019-02-11T22:47:06.220Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T02:26:45.137Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMuXMQ86nqJ8RY5dLmAgEQgIIDaoa+ZL2U+OsbrEp3PVPXg/+aTOaSq5+NTs5g5OuelJbpo3OFUOFJxZpd/8UAEB7J6LTgnO8blL/28ZLV5JaVOeNl6QZtOibL990pqA4AV1p62iy0VzCdQn2Xfmh7FBZlykQBP2GYLcbLhymwE8Swo4eULiAQSXjUhfHgDIhOzOoF7Kp3AKsjzyv9vzsgpretHvpYUfRGlaV++JgS5T/cZwE8UH9Y2VOKvRCk89p0Q4mfezyrb/kavBXK93rZTx2Ub0feQDtSNAEPCtN1zWNQObrV3Bn3VPFJzUy5nsuo1UkNYWUTcTbny0uU73X1znKlNwQJpfuOOBACXZvwGqmeXYe1+fEc7AQhDDyNpP3tVI2gHZTC1Qegpoucn9pMTl4H4scI7+WmqnPDm664I/MlBBPNWLyhY0RSuRTyqOZgYI2Vh8IDDdtfxEpab4Y00/Igo1KD6ALOLEs6jp7oTeeJ98Rs3IXP9UdSreTXBgNBNUYUbhbBnTz1knh01mZLwdobkv/T0OLsa+FTz8XZg/t+LQoLDrwztcmXKelc6+COEBD19kFzNfPmCrBQwp6pHznnc4yBvRlK5c8xIrfktIDq4fwJpGwp44HJNuKb8MiwlZk7tnj70nwGCxPCpzBoclLKwKA5SMi4tBhFgEORVpAzhVd02Sk2/6kLyFh8IKER4QLwcfqeqoSJUInL9q6bjuv7d9A2V2YhRwhU2lDMpIY2zmrkJ7I2+YcGr+CVKg2rGK6fUcVRmZ2AAopKNeKWfyCQao9cKQEbiiiSj5V91vsr9/M2kA3rm3RhYPms89iyIElG1CObhD/Ncbrkuhr+9XTbk4qd8JT/VtmHCVvaCjJlfBl0eWRyIGv8xBDnfC1/m0QnEzJhq/Ccveo+NTHKt1WQb54OR3qTYiG1sHug3zjMRNPcX9ovXxB5Njr5U6gxzQ3FMWJAI2vY2EqP6tKlV1yyAtDVgeX73HbnWpJrSuhZyFm7iiumM20mZRShhoc840Mj/KlXgL30mWLcdozEMNnrIdzSZs7uxEmTiLBEINRpKvN2jrQhPSeVNgrC1l/U80mxEnaWDnm1TMzTkydjKpEvLfYUE4Uz+eRX0Om8GbQQVuHIFAMJ3iLAOPdAACGp7Sd8tIsCgY1M1C2wdP6wsOxAR0koHZZtj3j8sG4=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-12T02:26:53.054Z"
+    },
+    "_rid": "A7pMAL4gUrCnAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrCnAQAAAAAAAA==/",
+    "_etag": "\"0b008eb1-0000-0000-0000-5c622eed0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1549938413
+  },
+  {
+    "id": "ip_08fdb980-9c09-4a2b-a443-b5a6a3dc006e",
+    "createdDate": "2019-02-12T00:05:41.162Z",
+    "lastUpdatedDate": "2019-05-07T03:04:56.079Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T00:05:41.162Z",
+      "lastUpdatedDate": "2019-05-07T03:04:56.079Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T00:05:41.162Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T00:22:18.225Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-04-23T19:20:04.387Z",
+          "executionId": "ecb2e0e4-05a4-4f06-b25e-2b8a90eb1ac8",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxdbb/q9pJbSGsC/UAgEQgIIDavq0s2f13EQnVtwswIqoxPvc5FcVzn1RcbSSaqwsB1lgEkRRMOAlzvrUhG1mi9zeMWXhjmKpvZHhyF6Bo3rRT3MoAN8CeQIZQKRu7bQzAW4hkPFsfk2kT2OH0A2hgz0Zn46Yt5AobpYv5kEHcxvEWqbfIW4Hs31UJ54rZK7DIe2PDrlhuRRwEzxSK2V1RlK0ALd9DEdhYHcJhbdBdXM0aIZAShKAhyL/lKew0YF5xSl/3mWdKrm9pIrYcvqzZt/jMo4kYqGOIoH96zhkymJyLfCzPY8xK8Uq0ar7novwnmfhhfGfKqJbHraaWXKr44OC6Mig/Fgv0sAjCOxJbYZcZOk2d76a3QQPJKkUm3EQQwdoIEdEobXiN/HmZvqOO2MGUsGuk3Bk6kJejVj0UsKGsfe4Vx+xIRjAcYiiVo7Bl5nlyTEYTcRPUMA9kAdaHvtZJriw9q9m75qJedO03xJu92/KYMUU8no0M5l93agep/BWuM+EL7eOVU139pstfZkvotBhBWYrVH1+HidF6HqgQMpyUuuwalWpqCq16wGvoO53oc+TNAxgC7XUOw9wQ9TGUqIZHlFVrEJDyaanJbfm2bKWKwrQMEMV797DytEI3Czwv1mvnup+XmaaxFNhqB44UqwCY2HSxRHZqaZv9hgI3khuMYFtm4+829vws17+Vt+LeaL1JZwVeynnBM7fC/nFOUEoeLHd21Rv9pqgXG2fdjdaGdqvq8+PvxX6KpLznmSO8DGoVEL/vvmaX6s88YTBDkj5Paoq1cVjx/LgUCmekVs25W9snKSWxRo3nAObD9UdIA5msJw2Ir/TbHDkOGty3Pfrpy0HrJR+B3cqxngBNI5WUJ47s7t9K9yE4d0g15wR5AF9eOCFSLEVhwGda9aQCpZ7xOgWyPJAnvwkU111JwCZXgIdbSgp+JLUlEG9rwngI+y840SeclVUndxlx5BkOOQ3WJD2ZOqJk6k4fuIQlN12XK6vK4ur0WGlgiDi1MFp0cFSx9ZpEi5EZNOVbs2wQ/B5MYjub6ClbxuHvhc7CogkkSoKUfJrDfRHcDTQ+xkw0oxPntFF0b6cnRk6LgM/yGby95bNticK2vlzNrSEqV/QpVp+VDo0bEmHI9Yz9eLnOUuQUA7Qge5Ou44DPL6bUYtJTWB8BScaC7A=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-05-07T03:04:56.079Z"
+    },
+    "_rid": "A7pMAL4gUrC7AQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrC7AQAAAAAAAA==/",
+    "_etag": "\"97003849-0000-0800-0000-5cd0f5d80000\"",
+    "_attachments": "attachments/",
+    "_ts": 1557198296
+  },
+  {
+    "id": "ip_9a487540-c3ee-4e9c-82c6-6e8010c6cf28",
+    "createdDate": "2019-02-12T00:58:40.356Z",
+    "lastUpdatedDate": "2019-04-26T00:13:38.537Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T00:58:40.356Z",
+      "lastUpdatedDate": "2019-04-26T00:13:38.537Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T00:58:40.356Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T01:13:57.071Z",
+          "userPrincipalName": "Rohan.Abraham@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-04-07T20:54:51.112Z",
+          "executionId": "d0acc922-7b10-49e9-8c81-6678f0d8e399",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJAJ3dVCotskazh0WAgEQgIIDaugo2/kHIe6JjcbVBchDdIMaQyu3FNQtbnXbEeydhDS3fshQ4buqaMCt0OguPSPEs+XEaFKp5NhOt/KZhX1itf/iPaH88IpYe2gVW6K+Y9FXanNLa8vnETKnBRZUd3Wcit7Kb1TXgS7BX8OEYqH5fbZkPxuiO06Zwsq2FIwVyW1gZRoXgyqMHwBU5i5/vSDY9SHgcuPexV1ffin2bAXD8Ok1GJFKwv31Wu3sFaXl0djK1+Muj8uVImALNj4gjs5HPOHNY3KP1tsAd98u2sI9PJFAHMfQZDw4Pqvo0GFdh/9j47IbgpSurg3M79OO5VeGGUkdrqCOvNZLNFY6a8VLm5/Sll44tbceZqdbjduHkuccm8IUL1VfXSurb0qAYBiEisD9bA95gn4wZkYGqXq525nHfHiuF6/0JDNT8M/YcI4SwGnYihvg3BjUCh6UNDC6M/p7cp2o60vjBEHBilxb9tgXarN7nkRcNypn70MGeFNUjt/O0ayGrN7i9vmnmEkdVoMa1zg4b3RJ20ySTWSb6dtui5NAqqOvepV3RwqEv47BtW5SCXwA41oTUsOJaQUeu3YklXvgDeUaCHjGGj0SzARk4ekGLkQmoTGJmWGsj+4+/UYTnlLFC8bv8sxUkDLNMiG3/lOiMXyMvpfh6qqzsT7ZXGS3mz7UmA/Y1FLDBOrstdwZqdv3IP5+/Cg6sn4dnC7Ynl4pNyUgLp5a/WRc0egXaXiV8bmxLmFV5/yfq8UfrTwxa4F6XN0nCOnoqKtIzGcZMK927p9KB2MSDmEp1dB2Vl7nWHWonExiHNr5qNYvpLBnHmnIAVA0nhb4ZdF62HiJRfc5zGDOVctz3mF4fhD9V0j+bWgWu2qvXFtXq4BV6qQ6Z+30bGbudlOOdBiAcc9lgKpxMqxpf/mYW2K/17MXggY6m+wTJsX3miCgunndmwU5p9a2INP9Oc4V+s6H4i2cFqoTr87b6vkQr4JyLlnxwG26iS/UR/vQS5lEOGNoddxDGK8LxzYGlgEzt3a4GppBNDp0BnYNsBPkQcBbhAMpmPR1D3UVaDLxUpRsy8Wm36NK5GFrXnvmi/J2on7FXHpRtpfWhe8GETRXfCaoHRmrfYnJTcoXTfaCd9ItAB4zE994tovQmDtfSKnpK+0ngFvW96gmtcKPRTE=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-04-26T00:13:38.537Z"
+    },
+    "_rid": "A7pMAL4gUrDEAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDEAQAAAAAAAA==/",
+    "_etag": "\"3800b329-0000-0800-0000-5cc24d320000\"",
+    "_attachments": "attachments/",
+    "_ts": 1556237618
+  },
+  {
+    "id": "ip_d81bdab3-c38a-4855-a553-d6adb3d18c24",
+    "createdDate": "2019-02-12T21:08:48.978Z",
+    "lastUpdatedDate": "2019-03-08T01:06:37.172Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T21:08:48.978Z",
+      "lastUpdatedDate": "2019-03-08T01:06:37.172Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T21:08:48.978Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T21:11:11.737Z",
+          "userPrincipalName": "ushpal.mann@ipifny.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMhh4P/hMl+leHa/SGAgEQgIIDarLBFKL3fUC/SwovResrKPZV7PrKOd4WJe3+GNI2XtXihaSc4U5sHMxITEVHSITm4D0GG1jGBy6bffCuOXIL44mgWonDGizpJRCWPbft/ArZJUBU1ANutGP3COnPjT4/mru+ny3IG1Ilcy5qVECVv65On+TQ/n4/epYaJdOuZk3MHfN/5JEN8ZwrT2gsB7F6Q9Tr/Iqk7EFIQEcrTDvhQO77n5bfeqhUSuI9irwJ8z3+op50BhTewMh6EwIJK+CALqEEcGgKGmdVNX7ITaE31tNVoMhqY7Xp8+NUchz4eYaNNaOrMCcy0iP5ggkJifFLIm6ePkONZhPMPo06KLFfey9npe8MVf9uajSsxyi95S2H6CTXQj4goAGMPVZ2QthhQOja0QBwZVBiWE2w5t0MU5n/RuqiXpXv83zACMAIfVS/F3K44iHk1fWe5TkHVso/3JElEQjSXaf6IEN3YNnDtfxHwcAh1JDPK3f7SS1heCM3THBOWpkeb3t1QAUKxttPIbzjL3p9WW+Prv6GOZqDYjbUPMtvFDfQPaed7/gE3D00d4hOZSXV2EdoNAn9M8HLjMg+LiPgG+7deWkYVzPkmRQxnyx/4JsW3g1CzdDJ7zuvjb8DdnWLUl7l312QEzZd+fa+ffLi9YYFKqd+YFRJos0DwC3K8+dLz6eJ6a/e9i/4x6nchYxdez8XT8l3D7UaL32u50hnJIZvr1WkXcf2iFSDNU6xyVtexKfwYX/V01ehdzMuNVX/drx55kIfQ03MF9gNaRGQb4Re9cnmIEAqrKSytsfUOHT2s3UCD2Mqy30/3HxcSDUYzY03uQHNDs9MoAC+SWdFT0BvyLKCVriPVqXkCjxugrj/LHbNpSJ+IEcDbQAFrY8VFtZHJAsJhUs2iMjRvxiNEL25d5dJk3Mu9SZVDXOq731di9/EkbUU8BAGeHe/7eDw1cdl6KFzTgKT+yPBjSfSkZXNTs/pMH2HkIw1P+ZUqWs1RkVW4Ft7naiZANFiktb3Xc9l6wVxiu8EeCQdCg86a0B/WhXdTCjRkUZfqjNFWfuV18h+rGN2yOJVdNZ2tveK4NOJx4l9z4buz/R4gNXc1iznHWtxk0o7UJD12y368xJb5IVyX87Ef+mRLzgabwakvmTCattElRGD9ryoLisE0mA8pNs=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-08T01:06:37.172Z"
+    },
+    "_rid": "A7pMAL4gUrDgAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDgAQAAAAAAAA==/",
+    "_etag": "\"0000c232-0000-0000-0000-5c81c01d0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1552007197
+  },
+  {
+    "id": "ip_4b6a8ea0-a310-4660-ae4d-5860c136bff6",
+    "createdDate": "2019-02-12T21:18:41.382Z",
+    "lastUpdatedDate": "2019-04-30T01:16:18.492Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T21:18:41.382Z",
+      "lastUpdatedDate": "2019-03-25T21:33:20.427Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T21:18:41.382Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T23:15:47.699Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        },
+        "callbackFailed": {
+          "date": "2019-02-12T21:22:28.096Z",
+          "reason": "Microsoft Organization ID provided does not match existing Microsoft Organization ID"
+        },
+        "processFailed": {
+          "date": "2019-04-30T01:16:18.492Z",
+          "executionId": "a5f1cfc3-01f2-4f79-8531-d831da41cb39",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmLPF2LR33NSFZ8g9AgEQgIIDarcyxva2iDWix5U6yjcCSqRs4F374TEIhRTbcclHLf0zxEIvt4Mhn7VY4l1ZHtHhEQZuUOnIQJpzBJXr2eQqYvvQhQScqawonIgiOJ5Pr9bCeQu9KTLpErQMOXiUGdxtSQBrvg4qmYgPG10535hZO+yZedNdYSgE8ZysS1thw8LCEENd+Y2kYYyZLJv49BNyPrljTIp9N+ls8onAm1j8sjTj/mA/drlVivAp8L3abinHW5grzP4hhXIGZ15UwVT+9U7O/2gDLSFgu4+BcpOn2Zff2SQGJJjsgal3zGE0xBzQeKnax6yoQpWTuJ/tKgbzEf7FVUVexoINYYg2RvIQokRo/53rKPF0PrpRevMzSGbNNeQLuowuNoRnLnBo6zEg6/WKOQK/rjvjC5jktxhC2EPs/J7z/KN9xP+vnKi7i4uix70Wwt/Lll3QrbEYCZaEDbO82MsSj040ZaGM4/FJPu99E10FCVj9XV11Pj+frPVpyTEQqQfHoZq/QEOgLvnLO/ftpBsj6uEErTQui74HX5H0rXm9ZihJm50giukMWQFZN6pwjQUeKj/UxkHK4glyilkg8kzPhzHSlYsvmFvM0BsDpQcJSpKO60YhrIIsxrMX0yKYkZA+/kC9gJPStUKNCClMOgQBWA2kGvgclVba1VyrwW3GbjPQdAxugaSjrAzxXmT23URMHRxcXhAg6N7tsiYng4LOxB/PeUkiS2Qk5TyLKIVqKxL754Ul6dvfbRpKXi4lTKTexO32PKQ/YxYDUOm8sZK2gddx6ThqUzqau/Fs5jhcUXiBjxiZ+jX7xXF6NAQPFNXUamoSDYTnotONPiT9MjbiTRLdaUmml6yo05ByF/+gjCiG9wD8ezws1FrWgEjJfFI36akOquMrSsFNBlkR1A50d7KEwqyJJRVstR7tL1GPziXYCYuHus10eO8JheqG/PB932p57Mw3MTXKshw9+ct/CAy6l5tJ3K3dra+FYXreIklRFSv6HqYteR8FqXfrWvHPAUAu7szBPveivOmeek4+QZdbu8lhd0F9NWV7XdZC5WSmvssfbNJw4EtZ5FS/awP59Xs2ei7FbbZb0vtqbUqnJpOEcS371lmYrVMUtxcG6EMpXa/a5jVLwqCjmomYQFRFWaYfBsqgzO0wuqOfsIo0yldnFYU=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-25T21:33:20.427Z"
+    },
+    "_rid": "A7pMAL4gUrDiAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDiAQAAAAAAAA==/",
+    "_etag": "\"0d009b46-0000-0800-0000-5cc7a1e20000\"",
+    "_attachments": "attachments/",
+    "_ts": 1556586978
+  },
+  {
+    "id": "ip_19fe274d-9fb1-401f-a945-cd2397b91522",
+    "createdDate": "2019-02-12T21:27:35.613Z",
+    "lastUpdatedDate": "2019-02-12T21:27:35.613Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-12T21:27:35.613Z",
+      "lastUpdatedDate": "2019-02-12T21:27:35.613Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T21:27:35.613Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrDkAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDkAQAAAAAAAA==/",
+    "_etag": "\"0c008759-0000-0000-0000-5c633a470000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550006855
+  },
+  {
+    "id": "ip_e503a267-8cce-445e-aa17-b67bc195c07e",
+    "createdDate": "2019-02-12T21:36:43.317Z",
+    "lastUpdatedDate": "2019-02-12T21:37:38.271Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T21:36:43.317Z",
+      "lastUpdatedDate": "2019-02-12T21:37:38.271Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T21:36:43.317Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T21:37:27.452Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMLUi4qhLYd5rYK67XAgEQgIIDar7ikWUmNmdXGeUR4ItyNWRZX/DMENkAtninORmNSWLTN8AajquFxTuirWK5VO6kjuHOJhYTLoNpWcd26s5Eyu/xQwDsZmhRaK0Un6g7h/dQkc+ykuhGjp7lHpaAqKqNsB8semPyGdXzsIJc4i2ZIHZB/t9lXwrzlSnfCzYyHwcYo38YYatzJsdEKkmJpOqPEiA4DLeGQ4EQN7AT0HCEK/RKA3+CypkCafny78q1TUbEKbEP4f7cB37dW+yl5II2mykMkRPiGieyo7uUdr80nW3lEMAiWb0oRv2h0p5yPnmQEQJ0HiQvjHq+pLDwRhfjzrmcQoQQJ3cTJjBEuu3IfBvkgSpkhDSIOycsQxpPNyFCnFgoSI7PpalM5Dr+HpiLEDd/WqIUYOg0CGJ0XshPF2Wl4O4LACzgELHPOT3aShg82lSkk+j0vrw/BNkk3Nlgut0dlgjC8jxoTZDQixaLuYIYi6G2lXLKjmgrgLZra8SxanBeDNVIFs7qXGNF7XJj2wTzS91/UvfbHCiqfWc7SmVfneg4A0FAaz4sC9gh3YibKnco2TzJZ9u5CAHCbuGREyzfUy3pFaIFf1oBMrT9MpiHSIZQ2aaQSCRtly1JnpmXrMtdyemP6jbU/uSxF9PUFu6wrj/96WccPfTbEC7p+aCi+7poR3WF7CemC2k8Dzu6WPBFQxko+sH6DDVMYb6U2eKBIcQ8uLzXzw3MC9zNFng3Ies2u5MmD+4Cb0mh41PUalzq0nw3WuoQ3MehtBx6HQL6rTMVNfzBVNzhv6vvP320Krvb+zLQwS6YnBkWCo1rxZs1WtHCFO2a8t9HX6HY7LwcZAX5Z5gt6wp3buBsKrd6jzssHQHjCh5mE3Lq9X+wx6hkPc1/IMBL3+2PVVWRNnU2gP+HRiYa+eBHAHbiOS+INjmzp1h6oEKY5F114yIYoL0Sp20pFgMEUGaCWLiGoYVRfi9pojrSt7tFpYaNw8tJOCOnweX0w1Wu9lLLashHKzpvHX29tQgnHzzv59ulY/b3sH1rbvD+px478oMdYDBthlJw93JvEeAspjIAmjwinglOCf/3ZStFqbe/2hhqN2SUa8RitrGVc71qbAl3KJnSAOUX9+M5rrDs9QQRptaXJGoyBssIqmxK52a08Eehia+3Me9WwkEp5Hg=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-12T21:37:38.271Z"
+    },
+    "_rid": "A7pMAL4gUrDnAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDnAQAAAAAAAA==/",
+    "_etag": "\"0c009f63-0000-0000-0000-5c633ca20000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550007458
+  },
+  {
+    "id": "ip_26597827-0d94-4c40-9dfc-8c11c24642c0",
+    "createdDate": "2019-02-12T22:54:41.498Z",
+    "lastUpdatedDate": "2019-05-03T00:44:57.293Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T22:54:41.498Z",
+      "lastUpdatedDate": "2019-05-03T00:44:57.293Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T22:54:41.498Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T22:54:47.952Z",
+          "userPrincipalName": "Cody.Zhao@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-04-08T20:03:50.446Z",
+          "executionId": "52dc0c50-e262-4bc4-85f3-c6b6a504e654",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtAsR27WJvbqEbOa3AgEQgIIDamkw+m2Gej1k+tWHOJWRSo0YTFPZ2UYladXEfF2bK4qQbIpPwvcUERkwQYTPgJbPphgevJeHALZdaIgmrDGTr9lfD4Tv7pxqd73od1YON+a5f9aPfgImVDvEVlm4tzA5hzMTV9gaDWlhYSSsODS9CTkoHZdQJxQU7QlB2pDjyiSfjxXz/NqlxkQvPt26ROKp4UjxMDQ3vUFxdK7s1rC/KOfa52KqFO98WDM10MiwYfqhZFdmHfrRs9SfhOPqJMu/gQzsVR8XcaY2I6t1BOaahCOpWhcVI7cxfVTNlkwLf3W6iSOXf26BT6XQehkgKO3tNiGd9cgTjhP7dDWngjUXHfuPGAuUnXxuq1gJKDAQMRYkkba4rP6R4bvM27Zn13iWOBR0Jfyl50UNBhwX+sIF2rM6KWhwlOnjdG74RDg3W+fQnUMiyMA3yMRDNRdlWpCy4O4YUhtAnL1HvzCefBTwvWjLCO9KJFox2G3H9gwaQjkKg1gFT0JszIROj+tPFoIXWmH08y9jzlMZnuNky5kxZ7bupMWAmUSBLVE8tdwv1DxLX6YPbe7KWjnUn84b+O1iqPJeOpQTH0c9jl5aWgs5HNynwpFQX5qOUIrv9xBeh14obhcsJr4oe581LqK3Iqg/GaKW1l0zq8e7HVIUXkGq8ISboKggi9OtoEnCW7IVZEg7cga1yWmBzxsK9ffD70kRTj4hxQaxp7HGdfn2ga7uU7EDB/AUjRaSX0kNu4DnPLm5HxZZ7EXA7ucyiKtED7nXgbQGr3VU94zu0T7tvfgUWCtdJVDITOQVe2zT3wrY3z/YvuQiQJIwi6+f5VuiPlj0pN5IirByjlhFHYlhDrJrHdxdAjBMuoM1yHnJ9u5XMfOS0cNyu1boM9Kx6i715Ii1f5eNfLUslvHtEEWbbYzFX79uACOxfl7Bz/vg6YTxk+wDkZ1N9a/p8QAhr1r0kLEbVOJn8v3l7O91IAl/4MImJnCTI7V2zFhi5OT8FukCpP1i0KVaQWc7HxdgHg6GpEQOXXB3A6EHqd6dyt+qv5bHmbBjux66CRKB7O84gp9yDv647h6NSk0trvK1g1KLJfiSAUfDlPnx0Kf3+F+nV9Kd39Xj602DvYSV6mz+Ge09tZkRlT9KKW20alFlbGKScZsM6Tz95YkV73Tm230=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-05-03T00:44:57.293Z"
+    },
+    "_rid": "A7pMAL4gUrDtAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDtAQAAAAAAAA==/",
+    "_etag": "\"1000773d-0000-0800-0000-5ccb8f090000\"",
+    "_attachments": "attachments/",
+    "_ts": 1556844297
+  },
+  {
+    "id": "ip_0269eb24-6b0a-4e20-994d-065342607668",
+    "createdDate": "2019-02-12T22:56:19.727Z",
+    "lastUpdatedDate": "2019-02-21T00:24:39.521Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T22:56:19.727Z",
+      "lastUpdatedDate": "2019-02-21T00:24:39.521Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T22:56:19.727Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T23:19:37.980Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMREoY/pTWp27QTxolAgEQgIIDal6LR+TuLFJVNblkgC03TvXFAlaTCE76kwKG+3mqiMzwBWQ4hQmrp7wX/p9SACfg6hU4ZP4mOTbmtmubASBrHzyY2VfvBTOJaF7+YDphNNxzgzaaWuYk+0paW/iJ4eefw67SOLGpbzJPmlCSAcbBihwBgqGHBVhdhsBANosQaeyp6uRRI6MctYaVFA+C58jlfA1K0/L4EHTxSCEfbyZwWunkgxNE/gUZa4wfNsC8lzm+zQSLUJ/HdFFtKUF0XCkqpePNl39EsUwvr6guG9xKI7dWDL/qfIHG4sDh8wxPQdFXrH3XChQ0htnDNKZaxpsr1eeTA7fkStMG8eMQD0E1rcYf77J0nUJ6JL/WmSa1H19l2AIaivFldQp9Ljdc1fg6cXYkNchPMw1A0rLivlaMUQss59thQHGYTlYJHClAVp0Ie+p5sCWI2Ayv/WxfCoTEmbmwH3rhpQ6dbaU8mSjlnPkFiV3+36YZnJzo1gRQ3bNnljAJTRmGsR8sI2w7ON3yqnsE4nh8hsdXhRSl3Rgrykm/BryMemwkXlu4s7ARhZIpBXJMHHoJu0jn9q+cPw/eSVoAw2WhfNG84DyDqB9DXWb5+iiZFa2/ZzhkQ8u5ocCq5M5Ae/CMG8aBGvV9A9Clx9tuU32GiTbuWcbwmai1vQDfnys2nH4UfQ0XH7xqElVWRQpTU04kM63NPBi0Xr5aBSr7O1bhuaGgvv+PLqx4ZP3ifvie1NXMc6jwEVLULOy0FRgOtmVTO9ypHLQ+Flqktmv7IHGoYsvV5Swv6qaFzy/C1F8OmE+17mjjtwxTD0VUkG6ENePEHqhsI7hIY47KcZcIW1AS5NP7uqt4YIiCm81KYK/uwDziUp0wOtFNyUCFZZaWmZBk5rWOnTe1xZXzdYoQ0VFYnN9vF27XB4owfRz5YvlVSqJyAkhAuaLc/2FoKN9NuIQ5VQ9L7cTwojRkJ157aee2t9vg4FaI3L2C/9RfPUJ68fthyUWtmD1jAMcmg6xrFS3DRXD9GEvG8rby8et2FX6Z0Aw8B5g8+iVBwPkBcaCXAIGlMHUgr6jjl+8ktilrMhwlRUEsLlk1bmlJg7oqyyUpZ6CfQfudVpGjJOqzOhv2tn1OG+Y78ZJ8q+at+p+RRC0eekPGLeMGyDFx+YueVmyz2dyaIss=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-21T00:24:39.521Z"
+    },
+    "_rid": "A7pMAL4gUrDuAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDuAQAAAAAAAA==/",
+    "_etag": "\"01006f63-0000-0000-0000-5c6defc70000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550708679
+  },
+  {
+    "id": "ip_c555765c-94d6-46bf-b934-7c732ae7f294",
+    "createdDate": "2019-02-12T22:59:36.388Z",
+    "lastUpdatedDate": "2019-02-12T23:24:35.893Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-12T22:59:36.388Z",
+      "lastUpdatedDate": "2019-02-12T23:24:35.893Z",
+      "events": {
+        "new": {
+          "date": "2019-02-12T22:59:36.388Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-12T23:24:22.913Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAABDcwggQzBgkqhkiG9w0BBwagggQkMIIEIAIBADCCBBkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM56voFt/Car+AsP/4AgEQgIID6kVyvYyUrXCfsq0ptv+m1yoit8dfYCjx+fe2K1Jv9i1LVlI6zm0s1cjezMuRmN5tSKk4DKCs6lbOqPYjgUW4hRawi+o+kp7IxHTaYcaiEOiMPJeyJ+au0zgDHu/DZSlXydO9TnC/eJ0D+tHGDKa07BCqA94FyRn5jm+pKyteS1iUpkuAaZs9Q36Izynsk4PkVtMjxQFe/mlaJUwbGqourA6tHh1XFHdWo5YGHkx2JltprXfNK0BpEWWldVV+lnkQTZYsa2bwJ/K5czeD13g+yCQnkxdQEI7A9/v+ECL/8mtbogY8v9M0leaq23E3YaUCWDhUTtQQuuaoaXj+FTJsGuAxAGXd6d984sHsW7Eaiuue1rO6SeNF2E9SbwB3a1NANFU66wFgu1AFmiz5JhlZEH0aN+LEeFhunMcW7l5alJqUQ4dq86Hb+5/qnJK3cXe7kkzX3XUwnUgy/e1ThiVsb2tSdWxKeK380N7PS/8MiWP1h4sPVciPZpE5Xj2ER06+qGxlfdjF6TBytMw3HuJdtYG8fcpm8B2VvV/tBUMD8+EMm9man7+F8Gjgq/AMJ1zGJ/32nPKL0ZALV7DsrF8Fnx7JqjUXJt4dNB1rdm494F9YX5tQF7zqLPHKg6WXq07T3oJCx/4eZ846zWZdUydYtsY9SABqouj2PUg81ifdmVZTqRZnQE9Ct47NLY7mC0/H8LH5yKef9Zpyqilcj3vFFX36JsM1dvNmkNiPE3UfITLuXYeLoofQmMiTH1Eh9OConlMJmFUKbTm7H1TMqksZ9sepDFn/DPCnlMr4Lk4qDZqlXr9KjNRCyvsy+axDuGUldW5zwcfz1Dz6YwtI7lNvpSewzLq+R4gq7icngCIjHuNhGCUJzm/g93ckFb5GQV+ZinBq1TbBQV97FabcXlKFk9oSe2LHCInm8VmtWtdYTIXUIJdLf1i+iCXYWGgUMdfQT+/4XLS9rG9kZpxZA58OAvgO5AWnln5FPjN/bSciPLVEfKsHmDVWgvXC5Rth2Es39sAnIgAhQdDF21+JtwlIAgZiUG3xG92e8o+Qf0MsOR/+WjPhVOuyAfn04WB9hGBodtCxDH2ELSmIMMcSbyuKjoms3Vfr+hRwfGQqr8UFWlMVEycoVSys9PgRPBWySkOxglPpqb4APROmX2+5koyq44xPjmOkAhtaU0zTixejQTPVYtLaeE3XDYvfxsvjQYOdIGkTXZzr6XX3SIYppuebyn0RiLJhmgd16fbJJhjTIUcw9CEMcTFmVpBdvn1Uza77u8xpdYZ2fB0bOIKnj7Dxx2d04VmJmvqjiFpwYmurYfikP9eNqoGY3SLjNg==",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-12T23:24:35.893Z"
+    },
+    "_rid": "A7pMAL4gUrDvAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDvAQAAAAAAAA==/",
+    "_etag": "\"0c00b7cd-0000-0000-0000-5c6355b30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550013875
+  },
+  {
+    "id": "ip_3289f204-0a7e-44cc-91d8-8d77538f5d0a",
+    "createdDate": "2019-02-13T01:08:11.096Z",
+    "lastUpdatedDate": "2019-02-13T03:13:16.867Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-13T01:08:11.096Z",
+      "lastUpdatedDate": "2019-02-13T03:13:16.867Z",
+      "events": {
+        "new": {
+          "date": "2019-02-13T01:08:11.096Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-13T03:13:03.139Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMxI9PpNiMY72iN5SfAgEQgIIDaodoD1uWSNy2xPrrQ2MfzGuCLuXw7PzAPhSttsU//DpFeMXtqrlh3ppvqI5gSS+9cfBTe1n7jSoMKMeKRGWAcCemdDZg43/LjyEEVBjtPZYTWuPxQuTWME0bRcAeSx03k4BXjSy5OWIMj1a4VBzSFOlHdY0nJbuiVzIKBi5lBkit7x8Bxn3XXvKfzyvsRUMzAGFSlwDFI9XHmXtR7fWNF7tBS3unzF7QkQ/4ZwDvozHVg/5MzUvKqx0x3Wv1IBVKgDnIBUio2oq1wqXJHF1ZvPY7QHbR0Hx4zAbgkwKdeEaqsHPSfSh5U2i0hEYJGUNzgwEORLnap+/skjh0twafHg+r+5g0yEpG6pEInDZveFrXSRQ7Mmkw3zwJi1HDhjaQSWb/MNuj6k+Mp6n8y6m2KVpS/nw14s5XHXZgV/sA2+xnQpdp+jfAb0A6s1BlFJ3sTLI2ZeWYW0Sv4Xmzwayx+tb/bMHjBMPgjC74/1invPIVdUg7DCm2FT+UH0GCqtOXb41pkucP9tlI+ebI2U2LNATrbRyBw7A3D3AE9K+Ga0V9FUzVofKn03apUh4I5EWJq/nY564fi83JZ6P1+R1umbNuotsvw70Mvuz8kf50DvGfpLnlMsurZiE9GN6xfxNLfQ30MBEElToUqdxPvO7C2SRf3zSfGOcKF/bM+SkbEwaL7DmD05zHoYkDj9m7wZodm3alzAaVlg/dGGwnpgocVYPXy4gkNcB0JaybXJ6C76kOxs8AwQbl6LSDHJfQ01sS+gRmBXmFSTNbbUme5RDZ1B+mihy7FMCK7e5s6EyNy7h85SGNB7dKPo6VpxkjANfOJJb/r2s5kDRzmmbSG3jS16QvwPYbcD/a6308opwBHMIlj4Qi5A2wv8NoWFAKfUsV+5qML6ISAOVPzPC03PmiclWyDCL3RNHrgX0AwsQDzamPNXLhtUvgqce51MKpa9BM370zgXmvHsxIYp8JakDg5k3ze2igS5HrQJ8bw/wqT+o/Ytpmvfm3194DYs0wTOpxJV9a9OcrfeAPgptjw0xLvR3tmPv+y8xge8O6t9tVcKnDN+wbu4aLFrkbDFemT0WySbEm376mqPQoWRDQ5asuoCdpmHm/2ojkopuuLu+AxAY2P8hXBhaZm/ROaXxHqS9gpbBttr8T1UVbw84=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-13T03:13:16.867Z"
+    },
+    "_rid": "A7pMAL4gUrDyAQAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrDyAQAAAAAAAA==/",
+    "_etag": "\"0d004376-0000-0000-0000-5c638b4c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550027596
+  },
+  {
+    "id": "ip_1afdc1ff-71b0-47ed-b8ed-37a2476ebaaa",
+    "createdDate": "2019-02-13T21:17:02.441Z",
+    "lastUpdatedDate": "2019-05-07T20:28:33.154Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-13T21:17:02.441Z",
+      "lastUpdatedDate": "2019-05-07T20:28:33.154Z",
+      "events": {
+        "new": {
+          "date": "2019-02-13T21:17:02.441Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-13T21:18:13.388Z",
+          "userPrincipalName": "Alexander.Amante@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-02-24T18:30:29.146Z",
+          "executionId": "3af46377-5f8e-4b5a-86e1-77d90c81e2e6",
+          "step": "OFFICE365_GENERATE_DASHBOARD_VIEW",
+          "errorCode": 162020,
+          "errorMessage": "Cannot destructure property `displayName` of 'undefined' or 'null'."
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMqQrufJhOvCXSi3/7AgEQgIIDaiy4l2CQXfz6CTXwKJdx9c3qtdapmVSA1Uz6SrwDcWQkkOhEnU0SQV63NSNJ28ugC0DQQvDgkR3XZmtBdKoTG0sGM19DEghb9UMtYIZGAhh2hGJa04xX4L5wsuhJjUVzSgDCU3uNlDIssBOLJFV+EkpmcS/uy3SQ7xOyItcBbwQfLS5Rts9RQjKypyEu7oSSU+QaKIRucMXccXd727faUMhpyHjFydWPGfWV2fNrTvbgzKiIj7LQN3kSjOjsKM9CXJlx5EL2nWOfjWRk2HETmPAesHSvJLiHFOVlqTxf6RP3AC0UlRmmCXrl9Jrk83hNtvmkn/6RUOGRLVgdrkwU4KRoZRNEx4FL0YLFSQ+AtgDLxFCIe4fNqfVxWWN/8uvw4cWLO3urAbHMZJDRLDzNLWUTOZFEbB3ENIzGzuC6UFsSQkqUifiYhFJ6aI+FajC6nLe5ofotb1xEBT7c0ryRkV5fSeBC4/jgGMyh3lKhQH5atZkgSDY5aBkbDMKdBzNumbMQl9FsVwQN2TZTTmIoEgNDjqVrVi4ATk9uNFIpyvc2NORyStr2BVlxG1GACFfU5ZKoOgJ+bbVqjYhF1E1RFcVp6nE5i2j0i/z5UstVdNAmwdB5Y6DFiZW9tqy6vX53B7AQEYY6pToGBV9nPR3nzuEqV7nIaLDbeAdNNOXMSvd84nDA7gW1JARkqpSkC4cLxKPMmRtBJsml8mr3Rs99w75NbC/TK3AgCErBcYT4c9XlAHVUncb/mb4bospN3VhnyKF+MVYGBymEFZghPU5q55nq7avqhg2b90N8RX8sAKnO99swf/tk1i8AxgWlk/Bl6uBNGWS13GKMq3SAxA7aaxefZ4vmMOcnXFKRlZdl8kjqOLPDuyEaUxwYt5ul3dn8L08g1oIVVnfDmV1iSjsZ5ynxj4yEB3kAFNlSBPOW5Qsyqhu5DBSCoeBouja3NM7xnusLgsH3ck8AQgJWEK3zWsCtp1cBVEJoOweCzOW1UP/wBoK223ojZRDkucWApd2SDCA2wHx/kYtHT0rP73/73NY8nbBAIX4LW/+2QUBF2wHdXIABhPyDPN6REKGNsolYPG7Qse4ERI3wNT9yZsjY+IukSH1C6r5APzS8YLoRUq9q5kuQK+aCBpxFWX29gpx2jq3K/zBQLK552cc=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-05-07T20:28:33.154Z"
+    },
+    "_rid": "A7pMAL4gUrADAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrADAgAAAAAAAA==/",
+    "_etag": "\"ac00363e-0000-0800-0000-5cd1ea710000\"",
+    "_attachments": "attachments/",
+    "_ts": 1557260913
+  },
+  {
+    "id": "ip_22c40561-347d-4f4a-bab5-e51c2bd615ab",
+    "createdDate": "2019-02-13T22:17:32.168Z",
+    "lastUpdatedDate": "2019-05-16T01:09:16.425Z",
+    "office365": {
+      "authState": "invalidToken",
+      "createdDate": "2019-02-13T22:17:32.168Z",
+      "lastUpdatedDate": "2019-05-16T01:09:16.425Z",
+      "events": {
+        "new": {
+          "date": "2019-02-13T22:17:32.168Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-13T22:18:15.650Z",
+          "userPrincipalName": "Rohan.Abraham@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-02-24T19:16:51.981Z",
+          "executionId": "71b9b653-dcf8-4eac-b813-a274f79a9d12",
+          "step": "OFFICE365_GENERATE_DASHBOARD_VIEW",
+          "errorCode": 162020,
+          "errorMessage": "Cannot destructure property `displayName` of 'undefined' or 'null'."
+        },
+        "invalidToken": {
+          "date": "2019-05-16T01:09:16.425Z",
+          "reason": "Failed to refresh the access token"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMV4XiP49nap/Ny7RdAgEQgIIDald08EbZBZHE3dSDIokVFUqde59GmI5xrGzLysbBmzIcX7utW2rP9xzBMlmjVPcHZ1Pqe6KiDmhsbfIJMFEzrIT7GV1cRd19gbu/PK4OfEN6JiW/arBTg7rEN4hSllerzp+IhZm3uNTQX4dlD6sLGN1klT9Fw3948UD286r0jzoEtuYmRAUTljbwXV72hhMcKEkAX+p1dSHeLMtyNkxhN5Af/TXkdtHsP6jENW07KnSOe+hGVi3Ns4B0sXLYFvJc8gVGbCZFznXWkwdIBdEiVwDevEMyr9j9mZNu6D22d2VF9iPOfPQjJfNeCnZKy84GdK16URcuc0BH6xA1GNxbhpgsfu9hYPdYrLRFtGXBRLSGqgmpDdjs4SRkpS0dSd9LIyIX+hOJqYOplVs37hfAlDwX2gm5ajmAPZd+6UyFqZXog/YwlAxiD2toaNFt6pII0Jpx5is8gKDGz10OTlfIdovdmprANhW9bvzkyWwJPDxTJZIbMS//0mlRuO6R3TBTWFEQM+rnao0NocI97WT6LJAv5pGzh3xyXq87VX43J3nSEaMLS2L544V7eQhehWshtMyQwX8KfXxZcQjcclnOohb5TNLyJqvutNwbqmWAgx2au7tIqi1TKObsGZDQqp23h0kTxgWxdlnckDKgr2xP1CAcJXGzEYz3fqMBVw2Ai58kXul+fFA4isZGOetMEAEspso7CLNdGCYVk7Syl1eIUqKYt1XIPGe0KWXfu/5UDDWAE5XNnTHunMLRqx5Yc867dlvQsCZXXDhJUZEd45Kf4j7SGf20hQamgTG8+l9f6nhiwSypHG36VSI6DYsbd716U8ebLT3k8DPh9XS3/YCKIJTQ6EOpm/DuhNGLwD+jJcmzWbnqRyjmD14SNFhNNMp9F4Bw2cEzWex/aThd7wQEzcS7m5NqnbnI2JE9vYLhU8p2qVqraBWoL+J8t1ccdgZWCdokzylFzDq4Zpxvn1PR3nk1VxYTXb+4e/A7MGytec1wkenBCS7VGny+ZZai12Nd8/dbChRDlg+QBnVXcBGO7a8JAUr+3ip4eyIWp+79IoFmEZEsuYvOsILzreNTOPF2l3w2x2irbjD/qBQ0YEZ2qxb2lppCfDZ6EH/PZcsU00NDkbIwfmLmZ3cS081LLQwUJmWn3m8ro/4iLDA=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-03-27T22:37:36.695Z"
+    },
+    "_rid": "A7pMAL4gUrAIAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAIAgAAAAAAAA==/",
+    "_etag": "\"db013543-0000-0800-0000-5cdcb83c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1557968956
+  },
+  {
+    "id": "ip_de26eb17-c961-40bf-abb5-907c15d6caf4",
+    "createdDate": "2019-02-14T00:38:42.209Z",
+    "lastUpdatedDate": "2019-02-14T00:39:49.621Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-14T00:38:42.209Z",
+      "lastUpdatedDate": "2019-02-14T00:39:49.621Z",
+      "events": {
+        "new": {
+          "date": "2019-02-14T00:38:42.209Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-14T00:39:39.113Z",
+          "userPrincipalName": "Cyndi.Lin@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA6EwggOdBgkqhkiG9w0BBwagggOOMIIDigIBADCCA4MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMn5XycMtym/GRmqnrAgEQgIIDVMt8cghX6fo3OFSP/jDNge2VBnffDk+fxUSasaQL9JXlzPchY5mrdZB1iidFZpt9FBP5CJyA25JSKZBNlSYliYiIa7HWFL9DJODvkZvx38Oq33L087cpKjVBWxjqrGzC3wXp33r9gcqSxRvZ1TufdH5SltyiNEhzxcPPTb5L2TuJmzWqZGw3pRRRuhGh1S1gQThbSFcmBr9KecHqJ2ZK99bxscCH87rCAJW4krD0Jl5kJRoEkDrpy+WC/1K5EKFuSpWXVlSmE/XzXipGjhAOX8punouK5/blMffOlMYrSAWnUF/I6EpUiOYRrMzZgldx/GTdW+1NHUnLkEteLGDBvA1Rug984IjEk5mLVSI51D0GijQ8QYAbr27KOvALkCmhBfVEhkf0X89dc2dVxdQiE9q8UUN+3jxAVNZmtF9Susm12GoXbjZXOvdQVXc7bifdIHMuWJj27ZMxiJKKshZjcHEJYxMVZp/FuwSUwxcsIwu05QcnGSqm/zFJ4R7+CJUrtVMDBRTcYSGBJ2Hher/jymqmqGM/iKcfpU7ecNcWZYzab8Xqg8dzKtGcmEOykQVcTQvBkEn92SMa1IqEFHGx3KxGTP+N5hApkNhBqvLYg7G4e6V0nJ9MTkSyzK4COpfu+GZqNfQHJi/fDO8Aiavow1QO+nVVrL8srvpdVN1w6EdeGfaU8TLbM0iYJyadpldFG44498jCFwDmycpa2GfESujEKtrX9iuH/4+yDsOHguDi1o2vL1QEQETosueHp9IvUZSYjcBTR6uzA1+wctXZ9cLTO3Rt1wZCFMBDbcwRD8Y1Yzi4w9UiAqd5uAC2l3IOE5L1roGMdkKVsSJXSx/w2J776MzFY9bA9FYa6zyWUjIY5RLlOTsaBEbsbFS92Bl7i1MWO2lHQQPiLYRx21pHYC3GddGVQRjESU+dqgWbGs1vMoPJl5GD/wLKDAh5AYQhZK3rUsJXb559mj2yESXeK83Ao7ahkbaefbk2SS17xk9acRsF2RX0bdsOsIcFdW2blJ1d6d5PSE98lM2wWoLwqDEHHCxgtbYncW0YdBCWIG2+vcq6RcOu83MW7KqsiNnpDj0VFavl9jhb/CsOwnWbbEtwrkZRTpMFmxDZpaSgBLkC2EeISw==",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-14T00:39:49.621Z"
+    },
+    "_rid": "A7pMAL4gUrAPAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAPAgAAAAAAAA==/",
+    "_etag": "\"51001568-0000-0000-0000-5c64b8d50000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550104789
+  },
+  {
+    "id": "ip_86d8c49c-039b-4c07-a44c-603fecb8cda9",
+    "createdDate": "2019-02-14T21:01:04.321Z",
+    "lastUpdatedDate": "2019-02-14T21:01:04.321Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-14T21:01:04.321Z",
+      "lastUpdatedDate": "2019-02-14T21:01:04.321Z",
+      "events": {
+        "new": {
+          "date": "2019-02-14T21:01:04.321Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrASAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrASAgAAAAAAAA==/",
+    "_etag": "\"5e00948a-0000-0000-0000-5c65d7100000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550178064
+  },
+  {
+    "id": "ip_50c89d92-01d2-421a-828b-120bc20e819e",
+    "createdDate": "2019-02-14T21:09:07.456Z",
+    "lastUpdatedDate": "2019-04-16T21:28:11.595Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-14T21:09:07.456Z",
+      "lastUpdatedDate": "2019-04-16T21:28:11.595Z",
+      "events": {
+        "new": {
+          "date": "2019-02-14T21:09:07.456Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-14T21:17:07.703Z",
+          "userPrincipalName": "Alexander.Amante@ipifny.com"
+        },
+        "processFailed": {
+          "date": "2019-04-16T21:27:10.993Z",
+          "executionId": "8d850bcc-2384-460b-8231-82d8b767f846",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM/v6c/nbhwvwA4SjbAgEQgIIDaskfOSAApAP95SXdKnapwMsHdAUVGGEBRxkg3CiN+XdP41DYqjGWF+YYbWrDM6EO8FokoJOUkHxy00PnUk5wQ+EOwTBbueLcKvVAvTIH7GE27R+EPmZhJ5PCijS6/DIYquyuAgjC4J3Jzrm9Ldn32xuFZtHo6m1kbr5OmnnxUFL6sSDQwA/CvEKcWKw+nGI0CcWYlS3tgWXvZe/T+P40oprkH3RljwM6lxzZ672VIwSq6+woJe1ddeJC0DnvHwuLM8ytNfZv705UMLvYcaZJjONVLhgGsvjJbCIaHf4p8Zn/rE+Ztrw56lVMZCgZ5f3SbdNP5KVhfgdNISX6za/WIAg6JV9BGMT5VcvzWCVQAXsK2+jpE0O+W1UwqSfsULsDWZNeV61XLS0y3aovVg6MJldO9k+5BtsWMQamGs14KBongzTVmbktY+l9RYR3Fz1QjuKX3XYk++5yTTQ9iLDUUWBfF2CPrvy+67MmPpm9auIBGLm4y7YnbYE2qr6LDvH5aDx1CjAoI9Cz4Ecb/ecdp3hmfclcCSaXlSWcg/tKV1yGGLEL7hcbWBCNQkm4DlMgBIryEK3VSTcUdAuOirFYJHhBzdKhwdCLfoT0EeEujmfum2VKck3SMgZ9NER8osQWnNWxZOw+ahqLBwkLFvPFinUTvBRsOzTg4eX2urYXOc/g5OVvabZEk7eqaNX+mk1ORid7h1y2Rq5IXR26jKpha3dnDMWepNvG4YzUbaihYplNfMElPjx2xxsx9PFe6wIpIM4Xt2GvpTqDTDAzoeYrouX4SX3HvfgRGR8VD9N92198g0CVBLVWDIiVg86DOjYJ63DUfyqLub/Q2CJFJEG4+sDBuLhQesEjzom3iL/GTjkrM92XuKO7WUC5D3vGsR8GnZBGB7BGhuM1b9a1PCA8+A/AI0YPECCrKhyFG4gKPYaj1LTSBfYgXLkfhUh4l88VTaDKimbhTiwTJnU2cuHLa/nVLJuiHOj+NOD2H+gw89QzvYEBIl2gKD99pLw/F1g0JkBAjlmgSOupD6wQptREUsVnmmww9gC6Q2ElCeXtSq6SyTxu0xZAsuCMsa1fcwE4cu1P3S1OZk04AqK5HijeC6UG0T5xeqdXpbkBzL0FbD5aeAI2R56STy9j5KIdoiBBpxMdEHSqL0hIsEY=",
+      "msOrganizationId": "db832e68-9b3c-4322-befc-2a864ba73551",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-04-16T21:28:11.595Z"
+    },
+    "_rid": "A7pMAL4gUrATAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrATAgAAAAAAAA==/",
+    "_etag": "\"4a0036b9-0000-0000-0000-5cb648eb0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1555450091
+  },
+  {
+    "id": "ip_773bebf6-faa9-4c09-b1dd-40b8ae7602f4",
+    "createdDate": "2019-02-14T21:58:20.494Z",
+    "lastUpdatedDate": "2019-02-14T22:07:21.332Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-14T21:58:20.494Z",
+      "lastUpdatedDate": "2019-02-14T22:07:21.332Z",
+      "events": {
+        "new": {
+          "date": "2019-02-14T21:58:20.494Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-14T22:07:11.477Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMOznK4Hkxz6LCpV5cAgEQgIIDam2ipS4dqTlv7h6vjkLOxw6HUCoiTABpC2W5s/HLa5Pw9li5rvR853oTPSG9idcTO6ycs4ONl28xrbIzYb0TWlrq82cOPRL4KxTZJEYEacrNNZnPI5Hrtbi65nXZ5/q2+mwMgdgnJOwdDsKX+Ivw7gFiSwZuCuYx8caVNt70yxVCWOUYswQ9aMobD8ItzPpnlCeHuYOZ5rVan2NzEsHyWCdWmRMYSW1WARpM3scUhm/SmGi5gabWvS/OyYa34MUW8NVsmK1WfYW3FzXNju111EVnSdyVTFiF4h1ub8px0dSYz4lO0jJr+W/iluXN9W1wALu1NQ4Q85dqwDlXnDxEjIhUO1C1BpV2woCDT45P2nFR9NhPGwt0nBMqWvLhh60aZpVJaQQgjzPtVjGg+iTumdylH69dq+kc50Ti7INeDQsYrJRvy68dwbBofQ3eBjQGEL2RKB84o4zn5YfFFlaqmQsDbl3qPgegi6AEt2gqB11SAcAdKXfM5TgVMJkCI3nAqxhNMSF7fHaKu+cbd6lUrhbvV+yZk4CDwwzXNpHzFJn7R9tuS/nYho5a0+McW30xc907mRibQieSrnUOoFXR86xocQMp9Phis54iY6WNpImTAA1DhwJF09EVjKOYA7brjD4VHhDMUa0E6esdbCCsdah4/K0V0gvq11Rz4WAiA+f7DUhIOW0RFCBrmBIN0J1jzmaQe0aFaLsaR4jCU+//XsTpzHO9QfTe0fI3o5UlTpCLwiiq5H/5x8g2qLBasS/nIGCYlKe0TEgJK4Ylw4iixpFSyE364lt6zjBVV+pl/9uPk7bwHJChdTtW/0zjIfDQhs5Z7yWfdCX6bZxP464qWWfvGE3Ha5ndCgwvd/u7jfvwm6uucOg/KnB9dKHbRA8caKvwZqHj0EcSWl7ZsH4f82gG1I7gXla5qsrT/pqIp+xfvyXhRP/GnAZtQhZHDTdg+KhZebpJ3RT2PVPYCkLrdfGv0Xp0Jj9Ko5cEkX6L6nkJpp/pPxCkzkNLqVIj5zkQKNPP63bLv/dSJtPOTwMA5xp/YenV4SF5FoBlchg5b1KLgcr27Nv4PILqDZp9xID/n5SmmoqvHtkZSVOaKmXQPDeZ3V20I9yXDG/6PyM8jY71jY5zEGIE2sns+0ntYnTpzY7K3hBt/i2240o=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-14T22:07:21.332Z"
+    },
+    "_rid": "A7pMAL4gUrAUAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAUAgAAAAAAAA==/",
+    "_etag": "\"5e006db8-0000-0000-0000-5c65e6990000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550182041
+  },
+  {
+    "id": "ip_a03ce34a-ffdd-45c2-8836-0620ed63f32f",
+    "createdDate": "2019-02-14T23:06:03.116Z",
+    "lastUpdatedDate": "2019-02-14T23:06:03.116Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-14T23:06:03.116Z",
+      "lastUpdatedDate": "2019-02-14T23:06:03.116Z",
+      "events": {
+        "new": {
+          "date": "2019-02-14T23:06:03.116Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAVAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAVAgAAAAAAAA==/",
+    "_etag": "\"5e0095dc-0000-0000-0000-5c65f45b0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550185563
+  },
+  {
+    "id": "ip_16dc5977-c70d-418a-9efb-94bce736f453",
+    "createdDate": "2019-02-17T21:13:58.356Z",
+    "lastUpdatedDate": "2019-02-17T21:15:05.750Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-17T21:13:58.356Z",
+      "lastUpdatedDate": "2019-02-17T21:15:05.750Z",
+      "events": {
+        "new": {
+          "date": "2019-02-17T21:13:58.356Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-17T21:14:55.134Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbJqO70LJSH6JPmViAgEQgIIDalq347hRVCZTic9iCPtFUbdWOSnlsXk/2A06rrRYx24BB3rNHNqrQY4heOJd1hB3fd/x7+3Q1S5u1lv61yqkDZGy5FOmKOwjKaU6Nw4oEpSKP4stYg2z7C5zVLDL/HHK4cgbhHHJ4CRDKlATWvIcmj/Ij8k0nNYzI5jlGApKDOQDzE+x6rQ9chuMuvMd2c0Q81S01B547RKSbnxXkKuzmlrY6hGX6FQstOUgB9VlWoj24s2HXbIG5ApC+GzGXxcaZQSPoGszQmhtfQnn3eEG7PR6uRxKxt6nrIe8koaKC8z41EchhDbmQEyUs5v48qEegV2Krpmr3LrpaeTnJ66TIbbK6Xt9uDm8yvoio4rD28hs7ZpaQMbdXsqxKTSPcClop33+0dC+p02+Vgr3bjax8Z1eU5l9IA2ccqO9/YyVvdhB0VbEnoJ6xBPusGeN3/Cslv75OlPhTcxMdQBndIfGaE4I6TAJV3282PcMnTU0oPZ/FLS/qICVrrS8BNRaqkPzpz3LUavdwIxsych+PdX6eCJlJNDnW29Av+ncbS5EtNH6O1yQeSPxxAGS6WjZaZkKUscgNr0St8y7aOfvX6qL/83vjgDy+jvYPw5/AyRsg5KilkKjU0r7+J+W55SK6kWiGSloz1hxGsb2tbD/tjKBPYQTAAS919FvOFOtCwjtogNM2BIVG+hhrRCHitJ/LQdwLJBHD3LApvsniMcUXJ2BR90f5Mhy96n2mFW7wQbpwFEkZoXxEQJzgKCubBooXxcj5g/dY0mGrQPGdGla9aqGXYaAm2vft9lYfi03SJ+C/iZRedxBkFpo+hZ1VyMSuhBr5o1UziRCMGslQ4ET4/+FS1ZFcaHemkby2yOHZ3qEv7TVNNI2k/wdGcN6G5ZFVPS2kNboRR2ixQ21kbNyW/nsHWlsuA4ln4TaxldnTkyPyoBb4HdK6yShPsi7ANHUGJBXDAoI/vF6aiDAf3L2QkxqfjPPEFEqry4RUCVy8saueBnY8tnon0Q2h00A44Lfb4YDKn9sOvSeO/USzhPziEuBUaJ+eraSyjHoQOhSqkM8whZzUG3wilnYttbZBVQ2DVfApWqVsB796jluA2FId7J/7u9nnM3CvSk2Isa4XSdlGhqz8DdKzE/0e3vT2LvTX4VuKHJBpeu8RoqyEvY=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-17T21:15:05.750Z"
+    },
+    "_rid": "A7pMAL4gUrAYAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAYAgAAAAAAAA==/",
+    "_etag": "\"0100ae25-0000-0000-0000-5c69ced90000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550438105
+  },
+  {
+    "id": "ip_ce55c4c2-afc9-488b-9734-927131dbff4e",
+    "createdDate": "2019-02-17T21:36:07.226Z",
+    "lastUpdatedDate": "2019-02-17T21:38:40.340Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-17T21:36:07.226Z",
+      "lastUpdatedDate": "2019-02-17T21:38:40.340Z",
+      "events": {
+        "new": {
+          "date": "2019-02-17T21:36:07.226Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-17T21:38:30.890Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJMZhlDw1PggKanVbAgEQgIIDasSYb3n7dz+tZyf+63PGhxrplZ4enMjOMt3oasWSyTHzJvYckpk14AsN0Ry1x1FhgyvT6sEK1FDjVBbzY968cMGSNLoPe27rLuVqkTI+HGPA/JxbHX5M/C4z6thlxAsh6ZuQRr6urad0c92fWmzNf+om/d+qnPr6cPbPjtFDd0LV+tFzucKTgMG+RBFQhL8Ye0u3dQJMiw+1UC5AwqwCPd8BsWbmyZFKlBjcTxNpwogXLNCgevFmYyHGQM+c333vNqIQxU/Gf14w8nLSVXTe11kGQo+73VaYZBsNuCQgdaHavK9bGYaFwqs6hnOiF5lSKdtC9oR6WvjDaOkCkTjU6PfpemhhicnCNMXhKbmsx7s7+ZXo3YAp5e5gQdeg14tz0rGU2v448fhO4S+dbyYxOi/fF/vvdoZZxgCepxOjlQlZ/g1Y6IaiyQVqBPs4k/f8AT90bmAGklgHUtHl87TZGvOvgkm/pxvBf73cFpkYg0L2co0dlZUqncsAhzGmLQyN1s0RupHFuESZ6N8YXfANjoQDtBmK4fVSdlo5cTvRE9plBcFPAVYh7Y08iAYG96qvCPMXWYSNXuazcD9SAyaUtBl60TzZaePLqLZVdugfpQA66qZqAj8AchEI9tlH4zwlSWuqkUhmw6aTU+YdrBaSKQ1pM8s+NPy9XpID15FyGIL7aGPihpMkREpPchI8NDNfJnI3LPQ7QW+3+RnB4rTs39Km3QSEmGDvKgm+zlL/3tCWGFEyRiexEGJUKSMO+u3KSqqNrEdVkUvFBgSsM9Y7BmXe/sG8tBeyTiotsR5OwXUa/SmK9h2WWOfFmXNXXE35oXqBmepdJqWB3ZFYVwleyy2gTSX8HIKgw/R2/7qGOdcXiHnjiutcrnt+jlGDCQKf88n83c0CjHvTgOqplGeGlkBLuCkpUNFflMsBoJvmnaQtjn4Le3zlxq80LzolihjmhkebOpwLf7O6/YP+UUGOEEDGu9KKnPcdcMWGyqWzSldGehkNUIKkIEHbB/pkjKyp/EVjEF+HI3WfbIUiZ7Y75q7rofGJ/6FU61bkRmkFBPJmi/CtOJI78TyRYY8gV4UKxXndCQMnVSE1xA0LP5n5vDm0+GSFjumLORH9PO1qb/Kkyq+Mtv8bsVAK6kM4ZZ+R5qRrdIgi6qwZwN8=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-17T21:38:40.340Z"
+    },
+    "_rid": "A7pMAL4gUrAZAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAZAgAAAAAAAA==/",
+    "_etag": "\"0100ea25-0000-0000-0000-5c69d4600000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550439520
+  },
+  {
+    "id": "ip_cd5fa912-ab40-4acb-8018-f2ec84ca497b",
+    "createdDate": "2019-02-17T21:46:48.453Z",
+    "lastUpdatedDate": "2019-02-17T21:49:02.690Z",
+    "office365": {
+      "authState": "accessGranted",
+      "createdDate": "2019-02-17T21:46:48.453Z",
+      "lastUpdatedDate": "2019-02-17T21:49:02.690Z",
+      "events": {
+        "new": {
+          "date": "2019-02-17T21:46:48.453Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-17T21:48:51.749Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMXTOnjV30h7Mc6+VyAgEQgIIDaimTDBSGtJoA+VGv1Zuf75GgvVKxtqwk3oNdfjJ++MfJerOJUZBZkkpJZ1Ef7VWH9QXVUipESoaS9bULgK/gXIRwsZSyP6geapB8G+qxeoJwuFwIVFktrBLNBF7JUh1UrfmUvWphNqr4+wpfNg4tfoJpqs32ICg4Qe6LMxYYWxqM9KNTTfUySmyN32a/Z8+/yfxhK0e+9LqLp2g9N239Ev9qThCQmZRrxVTsVAkhoGfUh04jn8qKTw8kIl6bgwioVkH6N9L/poWDjJcxy70pPq9pIg4sZdGGUQfRnPeI/PC3Bi+ZMtyL65NIVakSSbtU46N5HKxKHY9tUm2HolBj+sUteO0RjQkm0pD/LJczx7Tpl3AkJqMLxhGz2ZwK8YCp8fldio9XWVK5WzZx+d9zX99sNhM1rmzV91KgD47qcmPlk7YkPedV0+7JjzE1MgWUkHOYnMvGi8tstNvGV/ypoTeZoxWpx2bjbfjFGW/XWxsyS4/Zi42W+7aih4fqolheDO3YYJs/l6p8K1xdMdGQfbhI34V38kEj662L2lsHJx3Qj5EWXd022/KLBF0YjfIyfLssX/bIvbIiPGG7fmUto9hPmS7sSfqumRVpfk2iRPw+7RpXLZxUc+MQm9eauJoVAknawXKTPfBmjdGKGyBvJ04VlEk6nY63HintIt05UUq9/5x/Bnwn2d5S3cq3vV7Y/jObMk5DUNh6Er1x+6jQ9DzwEJnDwju8AnZADEs83wruuB5i2902ZIT0F0Pb7ugNIl5xDXetiTwIM3tlF9r9720bp8O+TZ2SNhqFwrQDQsEu2Rq2OVti8zE1vQyZQn29iWFFB1YDrZrB7OsfLTFyN+p5vp4Og9iH20WtGxUqJKv+7vzeK6apqSfVMpATYG/TwcnE9F0GQoBUoIvnfTR6ZfvJaBsZi9uUx9VdducOO8CHEQJatNgtEfjeeQQR3U2EsHJEF3oVqMcgg0eVDTYBN6OkwP/iSSCSNJtCiMWLIpB25ChF2oBYDUfsIMz/5yGDhPklvVs2axjMbSVOENGAPJfBHzLdydmsiVyoe1dp+8M2iv4AdIDfVfdWvW05BZgoS0INMkzr2tf6PWKmZBr2CHCkJOZTgxtSH3UI9IXT7ol8ZKyldiiMj4FInbayB5oD7YlZrWjYo33sXQ0=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-02-17T21:49:02.690Z"
+    },
+    "_rid": "A7pMAL4gUrAaAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAaAgAAAAAAAA==/",
+    "_etag": "\"01000126-0000-0000-0000-5c69d6ce0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550440142
+  },
+  {
+    "id": "ip_bab8f64b-6c16-4cfa-b0eb-1722fb6a3c50",
+    "createdDate": "2019-02-17T22:04:28.527Z",
+    "lastUpdatedDate": "2019-02-17T22:04:28.527Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-17T22:04:28.527Z",
+      "lastUpdatedDate": "2019-02-17T22:04:28.527Z",
+      "events": {
+        "new": {
+          "date": "2019-02-17T22:04:28.527Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAbAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAbAgAAAAAAAA==/",
+    "_etag": "\"01002d26-0000-0000-0000-5c69da6c0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550441068
+  },
+  {
+    "id": "ip_67395ca8-b9f4-474a-a898-2acae29d4201",
+    "createdDate": "2019-02-17T22:53:36.700Z",
+    "lastUpdatedDate": "2019-05-20T21:06:10.487Z",
+    "office365": {
+      "authState": "invalidToken",
+      "createdDate": "2019-02-17T22:53:36.700Z",
+      "lastUpdatedDate": "2019-05-20T21:06:10.487Z",
+      "events": {
+        "new": {
+          "date": "2019-02-17T22:53:36.700Z"
+        },
+        "accessGranted": {
+          "date": "2019-02-17T22:53:43.355Z",
+          "userPrincipalName": "German.Rocca@accordo.com"
+        },
+        "processFailed": {
+          "date": "2019-05-14T01:45:44.905Z",
+          "executionId": "03d023f6-a541-4a59-a47e-4bd912479d7a",
+          "step": "OFFICE365_PROCESS_ORGANIZATION",
+          "errorCode": 162023,
+          "errorMessage": "Failed to fetch Office 365 details"
+        },
+        "invalidToken": {
+          "date": "2019-05-20T21:06:10.487Z",
+          "reason": "Failed to refresh the access token"
+        }
+      },
+      "refreshTokenEncrypted": "AQECAHgnAAYYPeTUXZSjxoWhTiWh8IAfkzcn/mGi1nCeUKP/bAAAA7cwggOzBgkqhkiG9w0BBwagggOkMIIDoAIBADCCA5kGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkaj8+n+vTyAAfnjLAgEQgIIDam/7Mf3AXsPKgXqjyjfyuMdvre3uPAQerqcgrQBUrsZGB5Y22v0K3OeoVOwWSrVlAPLe3GlrbiaBKJgxiPvbKr3PsylJnpUKS/qOd+r3rD1VYJwpdi+LukRV83iGi9ieYVq7SRgTEGygZ69jddm2kiHRWO8zuWj7pFkY44zlxY5mobvgs+mizs/13VRCsTaVvVh4qQYe62ivG/5W7wK/OkQkv8MkSqs6ZuBufkuOlFCEJCU4t0w2ICx0iY7Lwj2YJKpww8QMdaPfP5RokX+tPJlTB4HDw3lCsJJ82TD4MNcrU2AaeiwIu6DPY6as/deBdTbUrv2nH9Y+H280lKydhCND2wT1Y3gZaolitPuZx6+2935V+biVsNwIe5CvTOOKuXE/hQiPk7qb8d1fGmrrOLVCxxt5I+BS9yRcOmVwV4GHhssqAXh2Ir1uUazAWodoxATEYWRuBHUXLx/PcHAHdJ5LGp0z8FaVGAF8qufzPmxLLL4498DhedjAGT5tMLyxUaUUvHF1Gn18QWfI+SHnVaF4Aj80u/G6LI2BqizoGlXbSBFCqwgHkkVt+YhYYurCsBcBNz2KaWKZEs1Rg1sbSMoi2O8vCmj4SuxCP0p8AfkWP6vLsKhIGzBMNja5JYa5lXMvMtRGR+XDLRMr403UATtjBF3fq1VighjNw3l80ro/CzdhszbTNoDdBct5KwOPx+7G4VcZJd/VoLsvfvM8fAJT1dnruQW8Wybn0qCq6UDGWsunTTE2fEzRVwUxkpq59PoiQvG+/RtJEKL1NtIIxMAUuINtwBolGaENwaNw33Y9wT542Gas/bd5AKtHEV4wmPgHdgmyWFiB9fVCWGuPgKSdrZS4Siejw/B4fKLl5/hBohihqczZndCB9t7uSjCKEo+VVIlDL628xanw7lwIksN3bRYNC2bewDbX1apQk94Y6HWHUSk/7vdtsQ+qn+Hyv+vcgiY/Rv/1kcSmxxtCR0HgfgreSg7KehsLgNKChOD35E/i1r/jv14S+6EOiR/O+DBXyHamJU9UITsxRtggVr0BTPULho216VhQMvT5P0Zz6wIHoa6HZ0JeylPLq1hlsk0maBi1jbsgpFTfxsp/vT8WkU7vWFj/OBBseu1Bci+jBsxAbj1TJTNj/dUxeuf+7IUL08cpG0VjJ+w=",
+      "msOrganizationId": "ef7c552a-196d-4b77-b775-5037bb1f5dc7",
+      "scopeGranted": "AuditLog.Read.All Directory.Read.All Reports.Read.All User.Read.All profile openid email",
+      "lastProcessed": "2019-05-18T21:06:08.956Z"
+    },
+    "_rid": "A7pMAL4gUrAdAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAdAgAAAAAAAA==/",
+    "_etag": "\"8502ee0f-0000-0800-0000-5ce316c20000\"",
+    "_attachments": "attachments/",
+    "_ts": 1558386370
+  },
+  {
+    "id": "ip_ffffffff-7347-4715-bbd7-638bb6d22bac",
+    "createdDate": "2019-02-18T00:34:55.588Z",
+    "lastUpdatedDate": "2019-02-18T00:34:55.588Z",
+    "office365": {
+      "authState": "new",
+      "createdDate": "2019-02-18T00:34:55.588Z",
+      "lastUpdatedDate": "2019-02-18T00:34:55.588Z",
+      "events": {
+        "new": {
+          "date": "2019-02-18T00:34:55.588Z"
+        }
+      }
+    },
+    "_rid": "A7pMAL4gUrAeAgAAAAAAAA==",
+    "_self": "dbs/A7pMAA==/colls/A7pMAL4gUrA=/docs/A7pMAL4gUrAeAgAAAAAAAA==/",
+    "_etag": "\"01006227-0000-0000-0000-5c69fdaf0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1550450095
+  }
+]

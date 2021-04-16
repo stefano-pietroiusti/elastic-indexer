@@ -1,0 +1,29 @@
+{
+  "name": "elastic-indexer",
+  "version": "1.0.0",
+  "description": "ElasticSearch Indexer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ElasticSearch",
+    "CosmosDB",
+    "Index"
+  ],
+  "author": "tao.lin@accordo.com",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "homepage": "https://bitbucket.org/accordogroup/elastic-indexer/src",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:accordogroup/elastic-indexer.git"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.1.0",
+    "env2": "2.2.2",
+    "ramda": "0.26.1"
+  }
+}
